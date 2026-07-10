@@ -91,5 +91,15 @@ motif density book-wide, then decide if Ch.10–17 need a lighter thinning pass.
   - Ch.9 note: reviewed, NO cut. Propulsion payoff (mother/daughter inherit-vs-choose argument
     = the book's thematic seed; the Maren gate scene, already distinct via spoon-counting; the
     first-sky landing = the cage-arc's earned catharsis). Already 5021w; least-cutting per plan.
-- [ ] Re-measure + decide on mid-book (Ch.10–17) thinning
-- [ ] Re-run beta panel + external read
+- [x] #3 Della vs Maren — Della's tell locked in Ch.1 (nurse's endearment 'lamb' + existing
+      bedside-soft voice / slowly-slid bolt / cheek-touch), which Ch.24 already calls back to;
+      Maren stays the dry counter (spoons/buttons) who never says it straight. They never co-appear;
+      axis = touch+spoken-warmth (Della) vs count+withheld (Maren). Diction confirmed distinct.
+- [x] #4 Gift cost/limit — SEEDED in the Ch.2 ritual: the mother names the asymmetry (taking is
+      easy/fast — a candle, a fish, a man go out by degrees; holding a life IN, 'catching a fast
+      wound before it empties', is the slow craft of ~a thousand years she hasn't the hours for —
+      'Strength stops. Only craft catches, and craft is only time'). Directly pays off the Ch.28
+      Selwyn total-loss ('strength to command the blood, not yet the craft to catch it in time').
+      Worded to avoid a verbatim cross-chapter n-gram (kept the conceptual echo, not the phrase).
+- [ ] (deferred) Re-measure + decide on mid-book (Ch.10–17) thinning
+- [ ] (deferred) Re-run beta panel + external read

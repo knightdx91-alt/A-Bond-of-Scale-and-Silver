@@ -14,7 +14,7 @@ The silk was the grey of deep winter water. It caught the lamplight and gave a l
 
 "You're not meant to have views on my mother."
 
-"I'm not meant to have views on anything, and I've had them for forty years, and it hasn't killed me yet." Della folded the cover cloth over her arm and stood a moment looking at Amelia the way she often did, fond and a little sad, seeing at once the young woman on the bed and the small silver child who had once fallen asleep against her shoulder. "Eat your supper while it's hot. It's a wild house tonight. Half the kitchen's in tears and the other half's drunk already, and there's more strangers under this roof than I've seen in my whole life in service."
+"I'm not meant to have views on anything, and I've had them for forty years, and it hasn't killed me yet." Della folded the cover cloth over her arm and stood a moment looking at Amelia the way she often did, fond and a little sad, seeing at once the young woman on the bed and the small silver child who had once fallen asleep against her shoulder. "Eat your supper while it's hot, lamb. It's a wild house tonight. Half the kitchen's in tears and the other half's drunk already, and there's more strangers under this roof than I've seen in my whole life in service."
 
 "I know," Amelia said. "I've been counting the carriages."
 
