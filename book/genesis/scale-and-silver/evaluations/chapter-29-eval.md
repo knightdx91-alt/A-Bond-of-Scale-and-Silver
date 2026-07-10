@@ -1,11 +1,25 @@
 # Evaluation: Chapter 29 — "What We Choose" (FINAL CHAPTER)
-**Evaluator:** book-evaluator | **Date:** 2026-07-10 | POV: Amelia + Korvan coda
+**Evaluator:** book-evaluator | **Date:** 2026-07-10 (RE-EVAL after Selwyn status change, §10)
+POV: Amelia + Korvan coda
 **Genre:** Adult romantasy / epic-political fantasy romance (Bishop register)
 
 ## HEADLINE
 **Genesis Floor: 8.5 | Genesis Average: 8.86 | VERDICT: PASS**
 **Engagement Type:** Empathy (primary) + Fascination (secondary) — aspiration/identity tertiary.
 No divergence alert: craft and commercial signals aligned.
+
+### RE-EVAL DELTA — Selwyn "mending" → death report + ruling (¶65, ¶67)
+The status beat now reads: "Gone, Majesty. On the shelf, where the iron put him. They tell me the
+silver girl knelt in the ford and tried, and that the boy went out under her hands regardless." —
+followed by a THIRD dramatized ruling: "See his people are told by someone who stood on the shelf,
+and not by a name on a list on a cross. That's an order too." This IMPROVES the chapter: it is
+consistent with the Ch.28 death, it neutralizes the old save cleanly ("under her hands regardless"
+ties to the untrained-craft power-canon), and the new ruling reinforces the chapter's inherit-vs-
+choose-via-concrete-rulings craft (now three rulings: proclamation refusal, no-reprisal, Selwyn's
+people). On-voice (grey man's dry register; Amelia's ruling). No canon/AI issue. Scores held.
+**Consistency note:** Ch.29 is internally clean on Selwyn (dead throughout). The residual live/dead
+contradiction lives in **Ch.28** (¶166/169/171) — see chapter-28-eval.md blocking fix. Ch.29 itself
+is unaffected and PASSES.
 
 ## Genesis Score
 

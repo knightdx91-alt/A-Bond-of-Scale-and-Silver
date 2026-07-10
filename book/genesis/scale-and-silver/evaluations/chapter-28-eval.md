@@ -1,11 +1,24 @@
 # Evaluation: Chapter 28 — "Outlasted (II)" [Amelia]
-**Evaluator:** book-evaluator | **Date:** 2026-07-10
+**Evaluator:** book-evaluator | **Date:** 2026-07-10 (RE-EVAL after Selwyn-death rework §11)
 **Genre:** Adult romantasy (Bishop / Black Jewels register) | **Slot:** Climax pt 2 — final beat
 
-## HEADLINE
-**CVI-Launch:** 8.8 | **CVI-Legacy:** 8.3 | **Genesis Floor:** 8.5 | **Genesis Average:** 8.71
+## HEADLINE — ⚠ BELOW FLOOR (re-eval)
+**CVI-Launch:** 8.6 | **CVI-Legacy:** 8.3 | **Genesis Floor:** 8.0 | **Genesis Average:** 8.5
 **Engagement Type:** Empathy (primary) + Fascination (Loric's denied grief) + Aspiration (the crown)
-**Verdict: PASS.** Floor ≥ 8.5 and Casual ≥ 8.5. No dimension below gate; no required fixes.
+**Verdict: BELOW FLOOR — one BLOCKING fix.** The Selwyn-death rework (paras 151–165) is excellent
+and on-voice, BUT the rewrite did not propagate: paras 166, 169, 171 still carry the OLD save-version
+outcome ("held the one fool **alive**," "kneel in a ford and **keep his fool alive**," "the blood
+staying where she told it... **did not let go of the wound**"). The chapter now both KILLS Selwyn
+and KEEPS HIM ALIVE in the same scene — a live internal contradiction. This is a Pacing/Coherence
+(internal-contradiction) + Logic failure, not a prose nit. Fix the three residual lines and the
+chapter returns to PASS (Floor 8.5 / avg 8.71).
+
+### RE-EVAL DELTA vs prior PASS (2026-07-10)
+- The death rework itself IMPROVES the chapter thematically (three losses, no catharsis; the power
+  fails the loved dead to iron-speed AND the savable stranger to her untrained craft — deepens
+  "deaths that change nothing"). Power-canon coheres (see below).
+- BUT the incomplete propagation introduces a contradiction absent from the prior version. Pacing &
+  Coherence drops 8.5 → 8.0 on the internal-contradiction check. Floor now 8.0.
 
 ## Genesis Score
 
@@ -15,11 +28,11 @@
 | Theme | 8.5 | "she was not a child and she would not pretend the crown had come to her clean." Being-seen vs its cost, and the futility of truth ("you could not make the dead go back and understand"), embodied not stated. | none |
 | Characters | 9.0 | Cover-the-name holds cold: Maren counts buttons + speaks in refusals ("I'll say what I won't say"); Selwyn "Here's the thing about a downed one—"; the Queen's warm register ("You got taller. When did you—"); Loric mild to the end. Inhabited chaos: the counting FAILS her ("no number left to hide inside"), she "could not remember, afterward, deciding not to" close her mother's eyes. | none |
 | Prose & Voice | 9.0 | Stopping sentences present and citable: "You gave her the warm thing." / "The touch was only tidying." / "small was not enough, and there was nothing in it that reached far enough to matter." Voice-under-pressure delivered as spec (flatter, clinical, affect-numb). | none |
-| Pacing | 8.5 | Massive value shift (victory→bereavement→hollow crown in one chapter). Compels the page to Ch.29. Meditative deceleration in the back third is earned by the slot (a finale, not a cliff). | none |
+| Pacing & Coherence | 8.0 | Massive value shift (victory→bereavement→hollow crown) is intact and still compels to Ch.29. **CAPPED by an internal contradiction:** Selwyn dies in ¶151–165 ("and so he died"; "a thing past holding"; "No witch. Only me. And not enough of that.") but ¶166/169/171 still say he is kept alive ("held the one fool alive"; "keep his fool alive"; "did not let go of the wound"). A reader hits a live/dead whiplash at the chapter's emotional close. | INTERNAL CONTRADICTION — see blocking fix |
 | Emotion | 9.0 | Body-rebel + concrete anchors: almond cakes "Out of order," buttons come "out even," "You're always cold. I never could keep you warm." Emotional surprise = banality-in-death (cakes) and the flatness of the kill. | none |
-| World-building | 8.5 | Blood magyk's LIMIT shown, not told (holds one torn vessel, not a war-opened body); the political grammar of dropped standards / stopped frames reads cleanly; dragon situational, no Atlantis dump. | none |
-| **FLOOR** | **8.5** | Pacing / Originality / Theme / World tie the floor — all AT gate. | |
-| **AVERAGE** | **8.71** | | |
+| World-building | 8.5 | Blood-magyk power-canon COHERES post-rework: power VAST + feared ("enormous, the cold answer her mother's blood had put in her... more than enough"), the real limit is INEXPERIENCE not a ceiling ("The power was equal to it. She was not. Not yet."), and the separate domain boundary (¶31, "no power over weight at all" — can't stop flying iron) is held distinct. Consistent with the Ch.20 child-save precedent (she CAN hold a slow bleed) and the mother/Maren iron-speed deaths (too fast for any hand). Political grammar of dropped standards / stopped frames reads cleanly. | none |
+| **FLOOR** | **8.0** | Pacing & Coherence — the Selwyn live/dead contradiction. | |
+| **AVERAGE** | **8.5** | (Char/Prose/Emotion 9.0; Orig/Theme/World 8.5; Pacing 8.0) | |
 
 ## Canon & Brief Compliance (the six flagged items)
 - **(a) Outlast, not argue:** PASS. "She gave him her silence... and did not spend a word." She has learned he cannot be argued; she withholds instead. Loric is defeated by the Queen's indifference, not rhetoric or combat.
@@ -78,8 +91,20 @@ Net: comfortably inside the clean band for the genre. No pattern forces a cap.
 - Blood-magyk limit shown by failure then confirmed by the Selwyn save — the arithmetic of "can hold a stranger, cannot hold the two it was made of."
 - Maren's button-count as the tomorrow-anchor. Untouchable.
 
+## BLOCKING FIX (returns chapter to PASS)
+| Location | Type | What happens now | Why it fails | Revision direction |
+|----------|------|-----------------|-------------|-------------------|
+| ¶166 | Logic/Continuity | "The three of them held the one fool **alive**" | Selwyn is dead as of ¶159–165; "alive" is residual from the pre-rework save-version | Recast so the three hold a body / hold the head out of the water over a man past saving — remove "alive." |
+| ¶169 | Logic/Continuity | "the first thing the new-made Queen... had done with the crown was kneel in a ford and **keep his fool alive**" | Same — states the save that no longer happens; also the intended irony is now the opposite (she knelt and could NOT keep him) | Recast to the new outcome: the first thing the crown did was kneel in a ford and fail to hold a stranger's fool — the reaching that came to nothing. |
+| ¶171 | Logic/Continuity | "the blood staying where she told it... She did not let go of the wound." | Implies an ongoing successful hold; Selwyn is dead | Recast: the ford runs clear over a thing past holding; she kneels with a stilled wound, not a held one. Keep the "two banks of the same water" close for Korvan. |
+| **Project rule?** | Yes | | | When a save/death outcome is reworked, sweep the ENTIRE scene tail (not just the death beat) for residual outcome language. |
+
 ## VERDICT
-**PASS** — Genesis Floor 8.5 / Average 8.71; Casual 9.0. Gate cleared. Optional anaphora trim only.
+**BELOW FLOOR** — Genesis Floor **8.0** (Pacing & Coherence, internal contradiction) / Average 8.5;
+Casual would land 9.0 once the contradiction is gone, but as written the reader hits a live/dead
+whiplash. Three-line continuity fix above → returns to PASS (Floor 8.5 / avg 8.71). The Selwyn death,
+power-canon, reader-only reveal, and anticlimactic kill are all excellent and must be PRESERVED. Prior
+"optional anaphora trim" note still stands, non-blocking.
 
 ## PACING VERDICT (one line)
 5,058 words (vs Ch.27's 5,462 — ~7% shorter, well within the 2× band); dialogue share low (~18%, correct for an interior climax finale); emotional slot = catastrophic double loss + hollow victory + crown, all landing; hook/pull = closes on "the whole of what she had left to hold," pulling cleanly into the Ch.29 aftermath.

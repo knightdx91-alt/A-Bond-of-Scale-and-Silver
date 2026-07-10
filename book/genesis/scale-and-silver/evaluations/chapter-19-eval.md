@@ -1,12 +1,24 @@
 # Evaluation: Chapter 19 — "A Dragon Can't Hide"
-**Evaluator:** book-evaluator | **Date:** 2026-07-09 | **POV:** Korvan | **~6,417 words**
+**Evaluator:** book-evaluator | **Date:** 2026-07-10 (RE-EVAL after new pre-dawn couple beat, §10 #5)
+**POV:** Korvan | **~6,750 words**
 **Book:** A Bond of Scale and Silver — ADULT romantasy (Bishop / Black Jewels voice comp)
 
 ## HEADLINE
 **Genesis Floor: 8.5 | Genesis Average: 8.71 | VERDICT: PASS (Floor ≥ 8.5 AND Casual ≥ 8.5)**
 **Engagement Type:** Empathy (primary) + Fascination (secondary) — both firing hard this chapter.
-**One blocking fix** (mechanical gate risk, not a Floor drop): a cross-chapter repeated 5-gram
-shared with Ch.18 ("tide comes up under ice"). Everything else is optional polish.
+
+### RE-EVAL DELTA — the inserted couple beat (¶7–17, ~330w, non-explicit)
+The new shieling pre-dawn beat (cold cheek over his heart; Amelia reading his too-quick heart with a
+flat hand; "I did the sum on it while you thought you were being quiet... Take the term out of the
+sum") reads **earned and on-voice**. It is Korvan POV, body-first, menace-by-restraint; Amelia's
+dialogue is cover-the-name distinct (does his arithmetic for him, refuses to trade her cage for his).
+Crucially it is not a decorative romance insert — it seeds the chapter's own thesis (the plan where he
+"takes himself off" is a self-built cage) which the byre/Selwyn scenes then dismantle, and it deepens
+the Ch.18(+)→Ch.19(−) oscillation with one warm rung before every door shuts. Non-explicit, honoring
+the two-explicit-scenes canon (Ch.18/26). No new AI pattern, no canon touch. Characters/Emotion
+already at 9.0; the beat reinforces them (per +0.5 cap, scores held, not inflated). Adds ~330w to the
+book's longest chapter — still inside the <2× neighbor rule. **The prior blocking mechanical fix
+(Ch.18 "tide comes up under ice" 5-gram) was resolved in the line-edit pass; gates clean.**
 
 ---
 
