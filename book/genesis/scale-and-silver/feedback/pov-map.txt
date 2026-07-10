@@ -1,0 +1,32 @@
+# POV map — one line per chapter: "<chapter number>: <POV character>"
+# Update this whenever a chapter is finalized. Used by tools/voice_wear_check.py
+# so voice-wear is measured PER CHARACTER (every POV, not a hardcoded few).
+1: Amelia
+2: Amelia
+3: Korvan
+4: Korvan
+5: Amelia
+6: Korvan
+7: Amelia
+8: Korvan
+9: Amelia
+10: Korvan
+11: Amelia   # braided K+A + court(Maren); grouped as Amelia for device checks
+12: Korvan
+13: Amelia
+14: Korvan
+15: Korvan
+16: Korvan
+17: Maren
+18: Amelia   # braided K+A; Amelia-grouped for device checks
+19: Korvan
+20: Amelia   # braided court(Maren)+Amelia; Amelia-grouped for device checks
+21: Korvan
+22: Korvan   # TP3 at the war-train; chief LEARNS the dragon (reveal)
+23: Amelia   # court [C/A]: braided Amelia(lead)+Maren, short sanctioned Loric flicker
+24: Amelia   # TP3 for Amelia — 'Seen on My Own Terms'; single POV; mirrors/inverts Ch.1
+25: Korvan+Amelia (braided)
+26: Korvan+Amelia (braided)   # 'The Reunion' — 2nd explicit scene; author-rewrite to differ from Ch.18; Floor 8.5/avg 8.71
+27: Korvan   # climax pt 1 "Outlasted (I)"; dragon enters on authored terms, contain-Loric plan, whale-iron
+28: Amelia   # climax pt 2 "Outlasted (II)"; contain Loric by outlasting, Queen+Maren die same blow, Amelia left the throne
+29: Amelia   # FINAL chapter "What We Choose"; throne-taking + inherit-vs-choose ruling; Korvan CODA (hard break) "the clan of one is now two"
