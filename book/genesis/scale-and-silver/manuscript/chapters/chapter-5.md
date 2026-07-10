@@ -36,7 +36,7 @@ All but one. She found him without meaning to, the way her eye always went last 
 
 And the humans moved between the two, carrying, pouring, clearing, quick and quiet and lowered, and nobody looked at them either, and Amelia understood with a small cold turn that she was watching the whole shape of the treaty laid out on a floor. The vampires who did not eat, at the high end. The shifters who ate everything, at the low. And between them the humans, who were, when you stripped the manners off it, the thing being eaten, carrying the wine to both.
 
-She catalogued it. She could not help cataloguing it. But under the cataloguing was the deeper thing, the reason she had come down forty-one silent steps, and it kept rising through the careful sorting the way water rises through sand, and it was this: she was here. She was in the room. She had ached, as long as she could remember, to be in a loud bright room full of people, and here she was in one. It was better than she had let herself imagine, and also, in a way she had not imagined at all, almost unbearable, because every soul in the hall had done this a thousand times over and none of them knew it was a marvel. And she was doing it the once, and stealing it, and it would have to last the rest of her life.
+She catalogued it. She could not help cataloguing it. But under the cataloguing was the deeper thing, the reason she had come down forty-one silent steps, and it kept rising through the careful sorting the way water rises through sand: it was better than she had let herself imagine, and also, in a way she had not imagined at all, almost unbearable, because every soul in the hall had done this a thousand times over and none of them knew it was a marvel. And she was doing it the once, and stealing it, and it would have to last the rest of her life.
 
 A serving man came past with a tray and, not seeing her as anyone in particular, tilted it toward her in the automatic way of a man who has offered a thousand glasses that night. "Wine, my lady?"
 
@@ -104,9 +104,7 @@ She sat down on the first cold bench she came to and put her head down and breat
 
 When the shaking passed she lifted her head, and the garden had been waiting for her.
 
-There was a fountain at the heart of it. Not a grand one. An old stone basin with a single low jet that fell back on itself in a steady patter, and she went to it and sat on the cold rim of it because her legs had begun, now that the danger of the crowd was behind her, to shake.
-
-She sat by the water and let herself understand what she had done. She had been among people. A stranger had offered her wine and called her my lady. She had heard the world talk about itself with its guard down. She had done, in one night, more living than all her locked years had held, and no one had died of it, and the treaty had not turned to ash, and the only cost so far had been a missing dress and a fright and her own legs shaking on a cold stone rim.
+There was a fountain at the heart of it. Not a grand one. An old stone basin with a single low jet that fell back on itself in a steady patter, and she went to it and sat on the cold rim of it.
 
 She would have to carry it back up the north stair before the dark thinned, and put the pins back in her hair, and slide the bolt across from the inside so it would look untouched, and be, tomorrow, exactly the girl her mother came to twice a week, the one who weighed it all and stayed. She knew that. Already, in the back of her mind where the cold clear part of her lived, she was walking herself home step by step, forty-one of them, so that no part of tonight would show on her come morning. She was very good at leaving no mark. Tonight she had proved it on the largest scale of her life.
 
