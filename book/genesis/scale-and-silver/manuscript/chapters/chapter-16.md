@@ -50,7 +50,7 @@ He went down. The great length of him folded to the rock behind her. She stood i
 
 They put them down.
 
-It was the coldest, cleanest, most terrible thing he had ever watched a person do, and she did not kill a single one of them, and Korvan, lying behind her with a crossbow bolt in his shoulder and a dead boy on the rock in front of him, understood the whole shape of what they were now, the two of them, and it was worse than anything the propaganda had promised, because the propaganda had promised two monsters and the truth was worse than that. The truth was that she was the one with the rule, the one who had killed no one, the one whose whole life had been a discipline of the terrible thing she carried, and he was the one who had killed a running boy inside the first hour of what he was, with no rule at all, because no one had ever thought he would need one. She was the witch who held her hand. He was the monster who could not.
+She did not kill a single one of them, and it was the coldest thing he had ever watched a person do, and Korvan, lying behind her with a crossbow bolt in his shoulder and a dead boy on the rock in front of him, understood the whole shape of what they were now, the two of them. The propaganda had promised two monsters. The truth was worse, and it did not fall the same on both of them. The truth was that she was the one with the rule, the one who had killed no one, the one whose whole life had been a discipline of the terrible thing she carried, and he was the one who had killed a running boy inside the first hour of what he was, with no rule at all, because no one had ever thought he would need one. She was the witch who held her hand. He was the monster who could not.
 
 *
 
