@@ -5,9 +5,27 @@
 
 ---
 
-## ▶ RESUME HERE — SURGICAL PACING PASS (2026-07-10, in progress)
+## ▶ RESUME HERE — SURGICAL PACING PASS (front act DONE 2026-07-10)
 
-**LIVE TASK: execute the surgical pacing pass — plan is `feedback/revision-plan-grok-2026-07-10.md`.**
+**FRONT-ACT PASS COMPLETE (Ch.1–9).** Trims landed in Ch.1–6 (each committed, gate-clean):
+Ch.1 −91, Ch.2 −29, Ch.3 −51, Ch.4 −28, Ch.5 −149, Ch.6 −48 — all removing genuine restatement/
+circling (age recaps, duplicated triads/codas, event-recaps), never scene or voice. Ch.7 (TP1
+exposure), Ch.8 (war declared), Ch.9 (escape) reviewed and DELIBERATELY LEFT INTACT: plot-turn/
+propulsion chapters the plan says to protect, already tight and at/under floor, no non-load-bearing
+dwell. Per-chapter rationale in the plan doc's Status section. Book total now **153,423w** (still
+well within the romantasy band; the surgical philosophy meant light cuts — the prose had little fat).
+Ch.5 dropped under the 18% long-sentence ceiling (was a legacy over-ceiling chapter).
+
+**▶ DECISION FORK (author): what next?** (1) light Ch.10–17 thinning pass — motif re-measure shows
+mid-book motifs are mostly thematic/deliberate (Ch.17's high "count" = Maren's signature spoon-
+counting), so any pass would be light; (2) re-run the beta panel + external read now that the front
+act is faster; or (3) call the surgical pass done. Also still open from the plan's other workstreams:
+#3 Della-vs-Maren front-half diction (Maren already distinct; Della is the one to differentiate) and
+#4 seed the gift's cost/limit earlier (Ch.2 ritual / Ch.5 / Ch.11) so the Ch.28 Selwyn total-loss pays off.
+
+---
+
+**PLAN: `feedback/revision-plan-grok-2026-07-10.md`.**
 - **Trigger:** external **Grok** read (first independent market read): strong prose/character/world,
   but **overwritten + slow front act, motif repetition, Della/Maren blur, gift needs harder cost.**
   Aligns with our own known weakness (early-act pacing; the scene-end tic we already swept).
