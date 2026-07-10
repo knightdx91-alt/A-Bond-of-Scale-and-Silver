@@ -80,6 +80,6 @@ motif density book-wide, then decide if Ch.10–17 need a lighter thinning pass.
 + (ideally) another external read after the front-act pass.
 
 ## Status
-- [x] Ch.1  - [ ] Ch.2  - [ ] Ch.3  - [ ] Ch.4  - [ ] Ch.5  - [ ] Ch.6  - [ ] Ch.7  - [ ] Ch.8  - [ ] Ch.9
+- [x] Ch.1  - [x] Ch.2  - [ ] Ch.3  - [ ] Ch.4  - [ ] Ch.5  - [ ] Ch.6  - [ ] Ch.7  - [ ] Ch.8  - [ ] Ch.9
 - [ ] Re-measure + decide on mid-book (Ch.10–17) thinning
 - [ ] Re-run beta panel + external read
