@@ -19,7 +19,12 @@ Ch.5 dropped under the 18% long-sentence ceiling (was a legacy over-ceiling chap
 **▶ DECISION FORK (author): what next?** (1) light Ch.10–17 thinning pass — motif re-measure shows
 mid-book motifs are mostly thematic/deliberate (Ch.17's high "count" = Maren's signature spoon-
 counting), so any pass would be light; (2) re-run the beta panel + external read now that the front
-act is faster; or (3) call the surgical pass done. **#3 (Della/Maren) + #4 (gift cost) DONE (author-chosen, committed):** Ch.1 gave Della the nurse's
+act is faster; or (3) call the surgical pass done. **MID-BOOK (Ch.10–17) THINNING DONE (author-requested, committed):** light surgical restatement
+cuts in Ch.10/11/13/14/15 (~−187w total); Ch.12/16/17 reviewed and PROTECTED (dense/essential;
+Ch.17's high 'count' is Maren's signature). Per-chapter rationale in the revision-plan Status section.
+Book total ~153.5k (the Ch.2 gift-seed add offsets the trims) — well within the romantasy band.
+
+**#3 (Della/Maren) + #4 (gift cost) DONE (author-chosen, committed):** Ch.1 gave Della the nurse's
 'lamb' + locked her existing bedside/slow-bolt/touch signature (Ch.24 already calls back); Maren stays
 the dry counter. Ch.2 ritual now seeds the gift's LIMIT — 'taking is easy; holding a life in, catching a
 fast wound before it empties, is the slow craft of a thousand years' — paying off the Ch.28 Selwyn
