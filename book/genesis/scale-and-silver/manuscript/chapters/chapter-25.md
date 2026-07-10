@@ -76,7 +76,7 @@ Maren's hands stopped on the buttons. She was quiet a moment, reading the side o
 
 "No."
 
-"You've said not ten words of him in a year."
+"You've said not ten words of him since the garden."
 
 "There weren't words for him that wouldn't have been used against him." She had kept him under her tongue the whole hunted stretch of it the way you keep the one coin you will not spend, and it had cost her to keep silent and it had kept him alive, the not-saying, because a secret said aloud is a secret handed to whoever is nearest, and no one had ever been near her she could afford to hand him to. Not even Maren. Especially not Maren, who would have been made to give him up. "He's the only person in my whole life who looked at me and didn't see a use for me. Not a witch, not a weapon, not a secret, not my mother's daughter. A person standing in a room." She turned her face away, out at the moving grey of the wagons, because saying it undid something in the set of her mouth she did not want watched, even by Maren. "I didn't know that was a thing that could happen to a person until it happened. I've been trying to walk back to it ever since."
 
