@@ -4,7 +4,7 @@ import base64, os
 HERE = os.path.dirname(__file__)
 FONT_DIR = "/mnt/skills/examples/canvas-design/canvas-fonts"
 def b64(p): return base64.b64encode(open(p, "rb").read()).decode()
-art   = b64(os.path.join(HERE, "art_only.png"))
+art   = b64(os.path.join(HERE, "art_bloodmoon.png"))
 young = b64(f"{FONT_DIR}/YoungSerif-Regular.ttf")
 plex  = b64(f"{FONT_DIR}/IBMPlexSerif-Regular.ttf")
 
@@ -50,7 +50,6 @@ html,body{{width:1600px;height:2263px;}}
   filter:drop-shadow(0 3px 14px rgba(0,0,0,.95));}}
 </style></head><body>
 <div class="cover">
-  <div class="moonclip"><div class="rh"></div><div class="seam"></div></div>
   <div class="gemglow"></div>
   <div class="scrim"></div>
   <div class="redglow"></div>
