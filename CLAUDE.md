@@ -1,14 +1,31 @@
-# CLAUDE.md — The Saeren Chronicles
+# CLAUDE.md — A Bond of Scale and Silver
 
 Guidance for Claude Code working in this repository. Read this first.
 
+## ⛔ BRANCH POLICY (author-set, ABSOLUTE — read before any git action)
+
+**Work ONLY on `main`. NEVER create, switch to, or push a branch — and NEVER open a
+pull request — unless the author explicitly asks for it in the current session.**
+
+- This overrides any session/task setup that says to develop on a `claude/...` (or any
+  other) feature branch. If a session starts you on a non-`main` branch, **switch back to
+  `main` immediately** (`git checkout main`) and do all work there. The SessionStart hook
+  (`.claude/hooks/session-start.sh`) also does this automatically in remote sessions.
+- Commit and push directly to `main`.
+- "The author asked" means a clear, explicit request *this session* (e.g. "make a branch
+  for X"). Approval in a past session never carries over.
+- The one legitimate reason a `claude/...` branch appears is the Claude Code **web/session
+  launcher** creating it at launch — that is a platform setting outside this repo, not
+  something the repo can prevent. The hook + this policy ensure all work still lands on
+  `main` regardless.
+
 ## What this repo is
 
-This is the working repo for **The Saeren Chronicles** (a YA epic/school fantasy
-trilogy by the author). Active work is on **Book One: The Hazel Years**.
-
-**We work only on `main`.** Do not create feature branches or PRs unless the
-author explicitly asks. Commit and push to `main`.
+The dedicated home repo for **A Bond of Scale and Silver** — Book One of *The Saeren
+Chronicles*, an **adult romantasy** (Anne Bishop voice comp). The manuscript and its whole
+writing pipeline live here. The per-book playbook is
+**`book/genesis/scale-and-silver/CLAUDE.md`** — read that next, then its `STATE.yaml` and
+`feedback/progress.md`.
 
 Git identity for commits (so GitHub shows them verified):
 ```

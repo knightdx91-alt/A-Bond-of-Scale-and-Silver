@@ -15,6 +15,29 @@ if [ "${CLAUDE_CODE_REMOTE:-}" != "true" ]; then
   exit 0
 fi
 
+# 0a) BRANCH POLICY (author-set): this project works ONLY on `main`. No branch is ever
+#     to be created or worked on unless the user explicitly asks for one in that session.
+#     If the session launcher started us on an auto-created branch (e.g. `claude/...`),
+#     switch back to main so all work and commits land on main. Non-fatal by design:
+#     never let this abort the rest of session setup.
+enforce_main_branch () {
+  git rev-parse --is-inside-work-tree >/dev/null 2>&1 || return 0
+  local cur
+  cur="$(git rev-parse --abbrev-ref HEAD 2>/dev/null || echo)"
+  [ -n "$cur" ] || return 0
+  [ "$cur" = "main" ] && return 0
+  [ "$cur" = "HEAD" ] && return 0   # detached; leave it alone
+  # Only move if main actually exists locally or on origin.
+  if git show-ref --verify --quiet refs/heads/main; then
+    echo "Branch policy: session started on '$cur'; switching to main (project works only on main)."
+    git checkout main >/dev/null 2>&1 || true
+  elif git ls-remote --exit-code --heads origin main >/dev/null 2>&1; then
+    echo "Branch policy: session started on '$cur'; checking out main from origin."
+    git checkout -B main origin/main >/dev/null 2>&1 || true
+  fi
+}
+enforce_main_branch || true
+
 BSS_TARBALL_URL="https://codeload.github.com/felipelobomotta-blip/best-seller-studio/tar.gz/refs/heads/master"
 BSS_DIR="/tmp/bss"
 AGENTS_DIR="$HOME/.claude/agents"
