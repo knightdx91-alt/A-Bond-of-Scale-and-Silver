@@ -98,7 +98,12 @@ garden" (removes the one literal-year residue on the compressed timeline).
   (2) **Ch.29 coronation-evening** — a physical-claim kiss ("Mine" / "Hers") before the bittersweet
   "two banks of the same water" close, honouring the theme without turning it HEA. Both gate-clean;
   new n-grams varied out; book now **153,579 words**.
-- **STILL OPEN (author):** whether to add still more mid-book couple page-time; an optional deeper
+- **Ch.22–25 separation-trough yearning beat ADDED (2026-07-10):** per beta R5's top optional lever,
+  added a brief bodily-yearning beat to the Ch.24 close (Amelia POV) — her body wanting Korvan (the
+  heat at her back in hut/shieling/cold-camp, his careful hands), the physical want that turns her
+  east toward reunion. Fresh diction (no Ch.21 echo), gate-clean, voice-wear clean ("never once"
+  avoided), zero new n-gram, book 614 style baseline. Bridges into Ch.25's Korvan open (cross-POV).
+- **STILL OPEN (author):** an optional deeper
   pass on mid-paragraph (not scene-end) interior meaning-statements; and the bias-check caveat
   (self-generated 9.0s want a human/external read). The scene-END tic sweep is complete.
 
