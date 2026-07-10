@@ -148,21 +148,21 @@ She found Selwyn at the head of the shelf, in the thin red water, where the four
 
 She knelt in the ford.
 
-"Hold him," she said, and the clansmen, who had every reason to fear the silver thing that had walked through their war, held him, because there was nothing else left to do. She put her hand into the cold water and onto the open place and found the vessel that was letting him out into the ford, the one thing, the single torn thing her power was built to close, and she told the blood to stay, and this time there was room in it and it was not too much and it was not too far, and it stayed.
+"Hold him," she said, and the clansmen, who had every reason to fear the silver thing that had walked through their war, held him, because there was nothing else left to do. She put her hand into the cold water and onto the open place and reached for the thing her power was built to close — the one torn vessel, the single stoppable fault in a body. There was no one thing to shut. The iron had not left her a vessel to hold; it had left an opening too wide and too far gone for the small precise motion that was all she had, the blood already mostly out of him and going faster than any telling-it-to-stay could reach. She told it to stay anyway. It did not stay. There are wounds too open to hold, and this was one, and she knelt in the ford with her hand pressed flat to the truth of it and felt him go out under her fingers the way water goes out of cupped hands.
 
-It held for the stranger.
+It did not hold.
 
-She knelt in a foot of the poor man's water with her hand shut over a clansman's wound. She felt the blood answer her and stay where she told it, easily, the way it had not stayed for her mother and had not been let stay for Maren. And she made herself take the whole grotesque arithmetic of it. The one power she owned in the world could hold a man she had never met, and could do nothing at all for the two it was made of. She did not weep. There was no one on the whole field who would ever see her do it, and there was nothing in her yet that could. She only knelt in the water and held the wound shut and let the man live, because he was the thing in front of her she could reach, and reaching the thing in front of you was the only mercy the world had ever let her be good at.
+She knelt in a foot of the poor man's water with her hand shut over a wound that would not answer her, and made herself take the whole grotesque arithmetic of it. The one power she owned in the world had not held for her mother, had not been let hold for Maren, and could not hold for the boy the dragon had loved and let the water take. It closed small clean faults and it stopped hearts that had the time in them to be stopped, and set against a war it was nothing at all. She did not weep. There was no one on the whole field who would ever see her do it, and there was nothing in her yet that could. She only knelt in the water until the red stopped moving, because he was the thing in front of her and reaching the thing in front of you was the only mercy the world had ever let her be good at, even when the reaching came to nothing.
 
 "Here's the thing," Selwyn said, up at the grey sky, thin, not to her, not to anyone, the way a man says the thing he has always said. "Here's the thing about a downed one—"
 
-"Be quiet," Amelia said, "and breathe," and he did both, which was more than he had managed in a year, and one of the clansmen made a wet sound that was almost a laugh and had no laughing in it at all.
+"Be quiet," Amelia said, "and breathe," but he did neither. The thing about a downed one went unfinished, the way the important things do, and the working mouth went still on it, and one of the clansmen made a wet sound that had no laughing anywhere in it at all.
 
-The other clansman had not let go of Selwyn's arm and had not stopped watching her hand under the water, where the red was slowing now, going thin, the ford beginning to run clear again over the place she held. He was a big man and he was afraid of her, she could see it in the set of his jaw, and he held on anyway.
+The other clansman had not let go of Selwyn's arm and had not stopped watching her hand under the water, where the red had stopped going anywhere now, the ford running clear again over a thing past holding. He was a big man and he was afraid of her, she could see it in the set of his jaw, and he held on to his dead friend anyway.
 
 "You're the witch," he said. It was not an accusation. He was only naming the thing in front of him, the way a man names weather he cannot do anything about.
 
-"No," Amelia said. She did not look up from the wound. "No witch. Only me. Keep his head out of the water."
+"No," Amelia said. She lifted her hand up out of the water. "No witch. Only me. And not enough of that."
 
 He kept the head out of the water. The three of them held the one fool alive in the middle of a stopped war, a silver Queen and two clansmen who had every reason on the field to fear her, and none of them said anything more, because there was nothing to say that the water would have let them hear.
 
