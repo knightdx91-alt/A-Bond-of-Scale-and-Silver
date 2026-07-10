@@ -132,6 +132,6 @@ That if it had been her, if he had been right, then two people who loved each ot
 
 He got up off the crag. The falls were two miles east, and under them the crossing, and beyond the crossing the whole country was gathering itself to decide the thing, and she was somewhere in the dark behind him walking toward it as hard as he was walking toward it, and the next place their two roads could possibly meet was the middle of the fire itself.
 
-He faced east, where the sky over the falls had begun to go the colour of the coming light, and went on toward it, alone. He did not look back down the valley again. Looking back was a hand reached out for a thing not yet in it, and he had learned from a hard master that you did not do those until the hour you could close your hand on the thing for good.
+He faced east, where the sky over the falls had begun to go the colour of the coming light, and went on toward it, alone. He did not look back down the valley again. There was no reaching yet for a thing not yet in reach; he had learned from a hard master to wait for the hour he could close his hand on it for good.
 
 The hour was coming. He could feel it the way you feel weather. He went to meet it.

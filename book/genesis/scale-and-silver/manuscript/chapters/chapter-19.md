@@ -158,7 +158,7 @@ Korvan looked at him, and the truth of what he was rose up in him and pressed at
 
 *
 
-He climbed back up the north shoulder in the last of the dark with two men's food on his back and the truth still locked in his chest where it would stay, and behind him, far down the fold, once, he heard the hill-pony's small clatter going the other way, going down, going home, and then nothing, and he did not look back, because looking back was a hand reached out for a thing that was not going to be there.
+He climbed back up the north shoulder in the last of the dark with two men's food on his back and the truth still locked in his chest where it would stay, and behind him, far down the fold, once, he heard the hill-pony's small clatter going the other way, going down, going home, and then nothing, and he did not look back, because there was nothing behind him now that the turning would give him back.
 
 The grey came up cold and clean and the peak went pink and then gold above the tree line, and he was most of the way up when he understood the second thing, the thing under the thing, the thing that turned him cold in the growing light and made him climb faster.
 
