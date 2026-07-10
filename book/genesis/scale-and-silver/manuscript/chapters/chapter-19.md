@@ -4,7 +4,19 @@ The plan had been a small one, and Korvan had built it in the dark the way he bu
 
 Get her clear. Get her north and over the neck of the range into the drowned country where the clans thinned out to nothing and a man could go a week without seeing a roof, and settle her somewhere with a wall and running water and a way out the back, and then take himself off. That was the whole of it. Take himself off and go so far and so small that the thing he turned into would have nobody left to turn on. No writ. No banner. No war walking behind him. A man with a bad secret could live a long quiet life in the drowned country if he wanted nothing and asked for nothing and let the world forget his shape. He had wanted nothing his whole life. He was good at it. It was the one thing the years of being unshifted had taught him that was worth keeping, how to want nothing out loud.
 
-He had lain awake in the shieling with her cold cheek over his heart and turned the plan over and found it good, and that had been the last hour it stayed good, because in the grey before the dawn the plan met the morning, and the morning was that they were out of food.
+He had lain awake in the shieling with her cold cheek over his heart and turned the plan over and found it good.
+
+She was not asleep either. She never slept much; he had learned that already, in the short hard schooling of the road, the way you learn a country by being hunted across it. She lay along the heat of him with one cold hand flat on his breastbone, not to gentle the too-quick drum under it, only to feel it go, and he lay still under the small weight of her and did the one thing he had never in his life been able to do, which was want a thing out loud in his own head without shame folding it small. He wanted this. Not the war and not the drowned country and not the long quiet nothing he had built the plan out of. This. The cold hand and the silver head and the woman who had crossed a fire to him and not gone back.
+
+"You're doing it again," she said into his chest, not moving. "The heart. It runs faster when you think. You'd make a useless spy. I'd read you the length of a room."
+
+"Read what."
+
+"That you're deciding to give something up." She turned her head, and in the last red of the fire her eyes came up to his, the flat measuring look gone soft at the one edge it only softened for him, and never for long. "Don't. Whatever it is in that plan where you take yourself off at the end and go small in the drowned country so the dragon's got nobody left to turn on. I did the sum on it while you thought you were being quiet. It comes out to you alone in a bog for the rest of your life, calling it keeping me safe." Her cold fingers spread on his chest. "I've had the alone. I'm not trading my cage for a man who builds himself one out of love and calls that different. Take the term out of the sum."
+
+He put his mouth to her silver hair and did not promise, because she would have heard the lie in the heart under her hand, and they lay in the last of the warm hour and did not say the rest of it, which was that a plan with the two of them still in it at the end was the one plan the whole world was arranged to forbid.
+
+And that had been the last hour it stayed good, because in the grey before the dawn the plan met the morning, and the morning was that they were out of food.
 
 There was nothing left in the saddlebag but a fist of oats gone to paste and the memory of the hare. The grey mare had cropped the fold down to stone. Amelia had not fed in six days and would not on anything he could catch, and she had gone a color past pale, a color he did not have a name for and did not want one, and when she stood up from the ashes that morning she put her hand on the wall and left it there a breath too long.
 
