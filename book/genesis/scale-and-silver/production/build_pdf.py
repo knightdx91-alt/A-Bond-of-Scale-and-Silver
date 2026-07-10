@@ -31,6 +31,14 @@ SRC = os.path.join(ROOT, "manuscript", "full-manuscript.md")
 OUT = os.path.join(ROOT, "delivery", "production",
                    "A-Bond-of-Scale-and-Silver-6x9-interior.pdf")
 
+BOOK_TITLE = "A BOND OF SCALE AND SILVER"
+AUTHOR = "Post Peleos"
+YEAR = "2026"
+
+# --- Dedication --------------------------------------------------------------
+# Replace with the author's final line. Set to "" to omit the dedication page.
+DEDICATION = "For those who were told they were the wrong shape for the room they were handed."
+
 FONT_DIR = "/mnt/skills/examples/canvas-design/canvas-fonts"
 pdfmetrics.registerFont(TTFont("PlexSerif", f"{FONT_DIR}/IBMPlexSerif-Regular.ttf"))
 pdfmetrics.registerFont(TTFont("PlexSerif-It", f"{FONT_DIR}/IBMPlexSerif-Italic.ttf"))
@@ -63,6 +71,12 @@ title_main = ParagraphStyle("title_main", fontName="PlexSerif-Bd", fontSize=26,
                             alignment=TA_CENTER, leading=32)
 title_sub = ParagraphStyle("title_sub", fontName="PlexSerif-It", fontSize=15,
                            alignment=TA_CENTER, leading=20)
+halftitle = ParagraphStyle("halftitle", fontName="PlexSerif-It", fontSize=16,
+                           alignment=TA_CENTER, leading=22)
+copyr = ParagraphStyle("copyr", fontName="PlexSerif", fontSize=9, leading=13,
+                       alignment=TA_CENTER)
+dedic = ParagraphStyle("dedic", fontName="PlexSerif-It", fontSize=12, leading=18,
+                       alignment=TA_CENTER)
 
 
 def md_inline(t):
@@ -124,18 +138,54 @@ def build():
     chapters = parse(SRC)
     story = []
 
-    # --- Title page (front matter, unnumbered) ---
+    # ===== Front matter (unnumbered) =====
     story.append(NextPageTemplate("front"))
-    story.append(Spacer(1, 1.8*inch))
-    story.append(Paragraph("A BOND OF SCALE AND SILVER", title_main))
-    story.append(Spacer(1, 0.35*inch))
-    story.append(Paragraph("a novel", title_sub))
+
+    # 1. Half-title (recto)
+    story.append(Spacer(1, 3.2*inch))
+    story.append(Paragraph(BOOK_TITLE, halftitle))
     story.append(PageBreak())
-    # blank verso
-    story.append(Spacer(1, 1*inch))
+    # 2. blank (verso)
+    story.append(Spacer(1, 1*inch)); story.append(PageBreak())
+
+    # 3. Title page (recto)
+    story.append(Spacer(1, 1.8*inch))
+    story.append(Paragraph(BOOK_TITLE, title_main))
+    story.append(Spacer(1, 0.30*inch))
+    story.append(Paragraph("a novel", title_sub))
+    story.append(Spacer(1, 0.45*inch))
+    story.append(Paragraph(AUTHOR, title_sub))
     story.append(PageBreak())
 
-    # --- Body (numbered) ---
+    # 4. Copyright page (verso). Modest top spacer so the whole block stays on ONE page.
+    story.append(Spacer(1, 4.2*inch))
+    story.append(Paragraph(f"Copyright &copy; {YEAR} {AUTHOR}", copyr))
+    story.append(Spacer(1, 0.10*inch))
+    story.append(Paragraph("All rights reserved.", copyr))
+    story.append(Spacer(1, 0.10*inch))
+    story.append(Paragraph(
+        "This is a work of fiction. Names, characters, places, and incidents are "
+        "either products of the author&rsquo;s imagination or used fictitiously. "
+        "Any resemblance to actual persons, living or dead, events, or locales is "
+        "entirely coincidental.", copyr))
+    story.append(Spacer(1, 0.10*inch))
+    story.append(Paragraph(
+        "No part of this book may be reproduced in any form without written "
+        "permission from the author, except for brief quotations in a review.", copyr))
+    story.append(Spacer(1, 0.10*inch))
+    story.append(Paragraph(f"First edition, {YEAR}.", copyr))
+    story.append(PageBreak())
+
+    front_pages = 4
+    # 5. Dedication (recto) + blank verso — only if set
+    if DEDICATION.strip():
+        story.append(Spacer(1, 3.4*inch))
+        story.append(Paragraph(md_inline(DEDICATION), dedic))
+        story.append(PageBreak())
+        story.append(Spacer(1, 1*inch)); story.append(PageBreak())
+        front_pages += 2
+
+    # ===== Body (numbered from 1) =====
     story.append(NextPageTemplate("body"))
     for idx, (num, title, text) in enumerate(chapters):
         story.append(Spacer(1, 1.1*inch))
@@ -161,14 +211,14 @@ def build():
         canvas.saveState()
         canvas.setFont("PlexSerif", 10)
         # page number centered in the footer; body numbering starts at 1
-        # (front matter is the title page + 1 blank verso = 2 pages).
-        canvas.drawCentredString(TRIM_W/2, 0.45*inch, str(doc.page - 2))
+        # (front matter pages are unnumbered — offset by their count).
+        canvas.drawCentredString(TRIM_W/2, 0.45*inch, str(doc.page - front_pages))
         canvas.restoreState()
 
     frame = Frame(M_SIDE, M_BOT, TRIM_W - 2*M_SIDE, TRIM_H - M_TOP - M_BOT, id="text")
     doc = BaseDocTemplate(OUT, pagesize=(TRIM_W, TRIM_H),
                           title="A Bond of Scale and Silver",
-                          author="", leftMargin=M_SIDE, rightMargin=M_SIDE,
+                          author=AUTHOR, leftMargin=M_SIDE, rightMargin=M_SIDE,
                           topMargin=M_TOP, bottomMargin=M_BOT)
     front = PageTemplate(id="front", frames=[frame], onPage=front_page)
     bodyt = PageTemplate(id="body", frames=[frame], onPage=body_page)

@@ -72,10 +72,20 @@ Wrap rules that bit us / to respect:
 - Keep text/logos out of the spine-safe and edge-safe zones; barcode area clear on the back.
 - Cover art is **CMYK at 300 dpi**; the same RGB→CMYK caveat as §4 applies to the wrap PDF.
 
-## 6. Front/back matter still to add
-Saeren shipped title page + blank verso only. A retail interior also wants: half-title,
-copyright page, dedication/epigraph (optional), and — for adult romantasy — a **content /
-heat advisory** is common and worth considering. Add once publishing details exist.
+## 6. Front/back matter — DONE 2026-07-10
+The interior now carries proper front matter, built by `build_pdf.py` (unnumbered; body still
+paginates from 1 via a dynamic `front_pages` offset):
+- **Half-title** (recto) → blank verso.
+- **Title page** (recto): *A BOND OF SCALE AND SILVER* / *a novel* / **Post Peleos**.
+- **Copyright page** (verso): © 2026 Post Peleos, all-rights-reserved, standard fiction
+  disclaimer, "First edition, 2026". No ISBN/publisher line yet (add when assigned).
+- **Dedication** (recto) → blank verso, driven by the `DEDICATION` constant at the top of
+  `build_pdf.py` (currently a placeholder — swap in the author's final line and rebuild;
+  set it to `""` to drop the dedication page).
+- **Content/heat advisory:** author chose NOT to include one in the interior. (A content note
+  for the retail *listing metadata* lives in `editorial/back-cover.md`.)
+Adding front matter moved the page count 444 → **448 pp** (recompute the spine from 448).
+Back-cover copy is in `editorial/back-cover.md` (correct for this book — Amelia/Korvan, standalone).
 
 ## 7. EPUB
 Reflowable EPUB (Kindle/Apple/Kobo + IngramSpark ebook channel) is a **separate build** from
@@ -88,15 +98,20 @@ is chosen.
       scene breaks normalized to `* * *`). Assembled ~154,016 words, 77 scene breaks.
 - [x] Adapt + run `build_pdf.py` → interior PDF; **verify fonts embedded** (§3). **DONE 2026-07-10**
       — adapted script at `production/build_pdf.py` (hyphenated CHAPTER regex, title page, output name).
-      Output `delivery/production/A-Bond-of-Scale-and-Silver-6x9-interior.pdf`, **444 pp**, 6×9.
+      Output `delivery/production/A-Bond-of-Scale-and-Silver-6x9-interior.pdf`, **448 pp** (post front-matter), 6×9.
       Font check PASS: only subsetted IBM Plex Serif (Reg/It/Bd), 3 embedded programs, **zero Helvetica**.
 - [x] Convert to PDF/X-1a CMYK (§4). **DONE 2026-07-10** — `production/PDFX_def.ps` (points at
       `/usr/share/color/icc/ghostscript/default_cmyk.icc`); output
       `delivery/production/A-Bond-of-Scale-and-Silver-6x9-interior-X1a.pdf`. Verified: OutputIntent
-      present, GTS_PDFX marker, DeviceCMYK (0 DeviceRGB), fonts still embedded, 444 pp.
+      present, GTS_PDFX marker, DeviceCMYK (0 DeviceRGB), fonts still embedded, 448 pp.
       NOTE: `default_cmyk.icc` is a generic profile; for a strict IngramSpark proof swap in the
       printer's target profile (US Web Coated SWOP / the IngramSpark-specified ICC) and re-run.
-- [x] Real page count = **444 pp** @ 6×9, 11/15.5 Plex, 0.75" margins. At 444 pp the symmetric
-      0.75" inside margin meets IngramSpark's 401–600 pp gutter (0.75") — mirrored margins optional.
-      Still open: spine width from 444 pp × chosen paper stock → design wrap at full bleed (§5).
-- [ ] Front/back matter (§6); EPUB (§7).  ← still open (editorial package drafted under `editorial/`).
+- [x] Real page count = **448 pp** @ 6×9, 11/15.5 Plex, 0.75" margins (was 444 before front matter
+      was added). At 448 pp the symmetric 0.75" inside margin meets IngramSpark's 401–600 pp gutter
+      (0.75") — mirrored margins optional. Still open: spine width from **448 pp** × chosen paper
+      stock → design wrap at full bleed (§5).
+- [x] **Front matter added (§6) 2026-07-10** — half-title, title page (title/"a novel"/Post Peleos),
+      copyright page, dedication (placeholder line pending the author's final text). Both PDFs rebuilt
+      + re-verified (448 pp, fonts embedded, X-1a CMYK/GTS_PDFX). Back-cover copy: `editorial/back-cover.md`.
+- [ ] **Dedication text** — swap the author's final line into `DEDICATION` in `build_pdf.py`, rebuild.
+- [ ] Design the wrap at full bleed with the 448 pp spine (§5); EPUB (§7) when a channel is chosen.
