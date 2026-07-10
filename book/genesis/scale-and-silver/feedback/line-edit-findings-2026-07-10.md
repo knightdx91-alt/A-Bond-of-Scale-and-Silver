@@ -133,3 +133,24 @@ GEMINI_API_KEY/XAI_API_KEY). Instead I close-read 7 of the 12 back-half chapters
   been listed among the things *south*; he's at her back in Dunmoor to the north). Removed the
   duplicated "began to walk faster" chapter-end echo as a bonus. Ch.23 re-gated clean
   (grammar/style/metaphor/rhythm), 5,191w.
+
+## 8. De-tic pass — whole-book (2026-07-10, beta-panel fix #1)
+Beta-reader panel's #1 consensus fix: scene-end narrated-thesis tic + cross-POV repeated
+phrasing breaking POV differentiation. Addressed the named repeaters:
+- **"looking back was a hand reached out for a thing…"** (~6×, Korvan/Amelia/chief) — kept the
+  Ch.21 anchor (where the creed is explicitly linked between characters) and VARIED the rest
+  (Ch.19, 21:149, 22, 23, 25). It's a deliberate shared creed, so varied not killed.
+- **"it was not nothing" / "she held to that"** doublings — kept origins (Ch.14 chief dialogue,
+  Ch.16 Amelia dialogue), removed same-paragraph doublings in Ch.15/24/28; "she held to that"
+  now sits only within Amelia POV (no cross-POV bleed).
+- **"both are true and they don't cancel"** — de-quoted the Ch.29 ¶97 memory so the ¶99 dialogue
+  payoff lands once; kept Ch.16 origin.
+- **"the sum / arithmetic"** — JUDGMENT CALL: left substantially intact. Close reading shows this
+  is deliberate, signposted characterization (Amelia's signature that Korvan consciously inherits —
+  "He did the sum then. Her sum"; "the arithmetic voice, come into his mouth at last" — and the
+  chief's own pragmatism). It's a load-bearing arc, not unconscious bleed. Only thinned one
+  same-paragraph doubling (Ch.22 ¶79). NOT gutted.
+
+Gates after pass: style densities under ceiling, grammar/metaphor/voice-wear clean, 151,930 words.
+Still OPEN from the panel (need author steer — plot/structure/positioning): feeding-arc payoff (#2),
+timeline consistency (#3), Selwyn cost / power-limit seeding (#4), positioning/couple-page-time (#5).
