@@ -80,6 +80,16 @@ motif density book-wide, then decide if Ch.10–17 need a lighter thinning pass.
 + (ideally) another external read after the front-act pass.
 
 ## Status
-- [x] Ch.1  - [x] Ch.2  - [x] Ch.3  - [x] Ch.4  - [x] Ch.5  - [x] Ch.6  - [ ] Ch.7  - [ ] Ch.8  - [ ] Ch.9
+- [x] Ch.1  - [x] Ch.2  - [x] Ch.3  - [x] Ch.4  - [x] Ch.5  - [x] Ch.6  - [x] Ch.7  - [ ] Ch.8  - [ ] Ch.9
+  - Ch.7 note: reviewed, NO cut. Protected TP1 (the exposure). The 'seen' motif here is
+    the load-bearing irony (want-granted-as-catastrophe), the lead-in 'one more look'
+    repetition is a deliberate drumbeat, and the blood-magyk restraint beat seeds workstream 4.
+    No non-load-bearing dwell found; forcing a trim would damage the front-act payoff.
+  - Ch.8 note: reviewed, NO cut. Propulsion chapter (war declared, father's 'bearable door'
+    creed, the shame-of-relief). Already 4982w (under floor) and flagged least-cutting; the
+    relief/shame passage is characterization, not cage-dwell. Tight and forward-driving.
+  - Ch.9 note: reviewed, NO cut. Propulsion payoff (mother/daughter inherit-vs-choose argument
+    = the book's thematic seed; the Maren gate scene, already distinct via spoon-counting; the
+    first-sky landing = the cage-arc's earned catharsis). Already 5021w; least-cutting per plan.
 - [ ] Re-measure + decide on mid-book (Ch.10–17) thinning
 - [ ] Re-run beta panel + external read
