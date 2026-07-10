@@ -92,7 +92,7 @@ She watched him take it. He did not flinch and he did not soften, and she found 
 
 "We'll be at the passes in two," he said. "There's a herd-station up there, my uncle's, empty this time of year. There'll be a beast in the winter fold, there always is, a sick ewe or a lamed steer somebody left. It's not a person." He said the last part looking at her, level, and she understood it was a question dressed as a statement, the same shape she used herself.
 
-"It's not a person," she agreed. "It has never been a person. That's the one rule under all my rules. Whatever else I am." She let a breath go. "But that's the good plan, and I asked you for the other one. The one for when the two days aren't enough. When it's the third night and the vial's dry and I wake already moving, the way I did last night, only with nobody's hand left on the rein. What do you do then. Say it."
+"It's not a person," she agreed. "It has never been a person. That's the one rule under all my rules. Whatever else I am." She let a breath go. "But that's the good plan, and I asked you for the other one. The one for when the two days aren't enough. When it's the third night and the vial's dry and I wake already moving, the way I did last night, only with nobody's hand left on the rein. You get me to something with a heartbeat that isn't a person, and you do it fast. And the night there's nothing to get me to — you run. That's the whole of the other plan. Say you'll keep to it."
 
 "I'm not going to say it."
 

@@ -154,3 +154,20 @@ phrasing breaking POV differentiation. Addressed the named repeaters:
 Gates after pass: style densities under ceiling, grammar/metaphor/voice-wear clean, 151,930 words.
 Still OPEN from the panel (need author steer — plot/structure/positioning): feeding-arc payoff (#2),
 timeline consistency (#3), Selwyn cost / power-limit seeding (#4), positioning/couple-page-time (#5).
+
+## 9. Beta fixes #2 (feeding) + #3 (timeline) — 2026-07-10
+Author decisions: #2 = "account for it (recalibrate)"; #3 = "compress to weeks."
+- **#3 Timeline — compressed to weeks.** The book is internally consistent on a ~6–8 week scale
+  (six days / three weeks / a fortnight / six weeks / "twenty-two days after the Elver"); only
+  Ch.25 (7×) and Ch.26 (12×) asserted "a year." Converted every literal "a year" in those two
+  chapters to the weeks scale; kept the ache with two deliberate "worn like a year" / "every week
+  of it had felt like a year" similes. Also corrected the "a whole year" I'd introduced in the
+  earlier Ch.26 plank-echo fix.
+- **#2 Feeding — accounted for + recalibrated.** The Ch.12 goat already established she survives on
+  ANIMALS (never a person = the rule). Recalibrated Ch.11's contingency so it points at that
+  resolution (get her to a non-person heartbeat fast; if none, run) rather than an unfired
+  "decide what you do to me" put-her-down catastrophe. Added a back-half acknowledgment at Ch.23
+  (dry-vial-two-weeks) closing the loop: she's held the never-a-person line on the road's dying
+  animals (hare/ewe/gull), at cost, "the first thing she'd kept whole by her own will."
+Gates clean (grammar/metaphor/voice-wear); avoided the retired phrase "never once"; 152,067 words.
+STILL OPEN (authorial): #4 Selwyn cost / power-limit seeding; #5 positioning / couple page-time.
