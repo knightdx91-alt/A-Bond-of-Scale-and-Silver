@@ -1,7 +1,73 @@
 # Progress — A Bond of Scale and Silver
 
-> Book slug: `scale-and-silver` (was `rosalia`). Branch: **`scale-and-silver`**.
-> Read `STATE.yaml` first, then this file. Last updated 2026-07-10.
+> Book slug: `scale-and-silver` (was `rosalia`). Last updated 2026-07-10 (revision session).
+> Read `STATE.yaml` first, then this file.
+
+---
+
+## ▶ RESUME HERE — post-completion revision session (2026-07-10)
+
+### 0. Where the book LIVES now (important)
+- **Source of truth = the standalone repo `knightdx91-alt/A-Bond-of-Scale-and-Silver`, on `main`.**
+  All work happens here now. The old copy inside `knightdx91-alt/The-Saeren-Chronicles`
+  (`book/genesis/scale-and-silver/`) is **FROZEN** — see its `MOVED.md`; do not edit it.
+- **BRANCH POLICY (absolute):** work only on `main`; never create a branch or PR unless the author
+  explicitly asks in that session. Enforced by the top of the root `CLAUDE.md` + the SessionStart
+  hook (`.claude/hooks/session-start.sh` switches to `main`). If a session launches on a
+  `claude/...` branch, switch back to `main`.
+- Full writing pipeline is vendored here: `.claude/agents/` (12 book-* agents),
+  `.claude/commands/` (gemini/grok second-opinion — need API keys to run), `book/genesis/
+  _reviewer-skills/` (beta-reader-panel etc.), `_template/`, `new_book.sh`, `tools/apodictic`.
+
+### 1. Revision work DONE this session (all committed + gate-clean; book still 29 ch, all Floor ≥ 8.5)
+Current word count **152,067**. Gates green throughout (grammar / style / metaphor-shape / rhythm /
+show-tell / voice-wear). Detailed log: `feedback/line-edit-findings-2026-07-10.md`; checklist:
+`feedback/line-edit-checklist.md`.
+1. **Whole-book line edit** — climax (Ch.25–29) phrase-echo/tic/long-sentence cleanup; front-act
+   (Ch.1–9) show-vs-tell tightening (Ch.1 household para, Ch.8 relief coda, etc.).
+2. **Ch.23→24 hinge — Fix A** (author-approved): Ch.23 ends undirected on the diagnosis; Ch.24 owns
+   the choice; removed the south/north contradiction + a ¶119 geography slip.
+3. **Beta-reader panel run** (5 adult-romantasy personas) → `evaluations/review/beta-reader-panel.md`.
+   Scores 5.0–8.5. Consensus fixes = the four below.
+4. **De-tic pass (beta #1)** — varied cross-POV repeaters: "looking back was a hand reached out…"
+   (kept Ch.21 anchor), "it was not nothing"/"she held to that" doublings, Ch.29 "don't cancel".
+   KEPT "the sum/arithmetic" (deliberate, signposted characterization, not bleed).
+5. **Feeding thread (beta #2 — "account for it")** — Ch.11 recalibrated (points at the animal
+   resolution, not an unfired "put me down"); Ch.23 acknowledgment added (she survives on the road's
+   dying animals, never a person, at cost).
+6. **Timeline (beta #3 — "compress to weeks")** — converted the stray "a year" in Ch.25/26 to the
+   book's weeks scale (kept 2 "felt like a year" similes), THEN thinned the "weeks" drumbeat that
+   over-correction created in Ch.25/26.
+7. **Production knowledge migrated** — `production/PRODUCTION-PLAYBOOK.md` + `production/reference/`
+   (PDF interior specs, the font-embed + RGB→PDF/X-1a CMYK fixes, wrap/cover learnings, build tools).
+
+### 2. ▶ NEXT — open items (pick up here)
+**Quick, in-scope, PROPOSED but awaiting author "go" (small edits, ~10 min):**
+- **Ch.29 time over-referencing** — "twenty-two days" appears 3×; thin to ONE anchor (the
+  coronation/grave one), soften the others to "since the Elver", and reconcile the "three weeks"
+  (healer's cot) so it doesn't restate the same span in a different unit.
+- **Ch.27 stray "a year"** — "Selwyn had spent a year saying he would go where Korvan went" clashes
+  with the compressed weeks scale; change to the weeks scale.
+
+**Authorial calls (need the author's steer — do NOT just execute):**
+- **Beta #4 — Selwyn cost / power-limit.** Ch.28 reads plot-timed (Selwyn conveniently survives; the
+  "too open to save" limit isn't seeded earlier). Either let a death stand, or seed the limit earlier.
+- **Beta #5 — POSITIONING.** Romantasy vs literary epic fantasy. If keeping the romantasy pitch, pull
+  couple page-time forward (a beat between Ch.18 and Ch.26; a togetherness beat at the close).
+  NOTE: comps must be ADULT romantasy / Anne Bishop — NOT the McKillip/Priory/YA framing an external
+  reviewer suggested (that would mis-shelf the book).
+
+**Still-open production track (non-blocking):**
+- Adapt + run `production/reference/assemble_manuscript.py` (extend to 29 ch, this title) →
+  `manuscript/full-manuscript.md`; adapt + run `build_pdf.py`; **verify fonts embedded**; convert to
+  PDF/X-1a CMYK (needs gs/Acrobat); derive page count → design wrap at full bleed with correct spine;
+  add front/back matter; separate EPUB build. See `production/PRODUCTION-PLAYBOOK.md`.
+- `book-packager` editorial package (logline/synopsis/query/cover) — for ADULT romantasy.
+
+**Book-Two seeds still logged (from the completion audit):** roan gelding (WARN-005), Selwyn's
+betrothal (MINOR-003), Della's fate (MINOR-004) — deliberate open threads awaiting author intent.
+
+---
 
 ### ✅ BOOK ONE COMPLETE + FULLY AUDITED (2026-07-10)
 - **Whole-book audits done this session (all reports in `evaluations/`):**

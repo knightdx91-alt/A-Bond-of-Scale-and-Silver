@@ -1,7 +1,13 @@
 # CLAUDE.md — A Bond of Scale and Silver
 
 Per-book playbook. A fresh Claude Code session should read this first, then `STATE.yaml` and
-`feedback/progress.md`. (Book slug `scale-and-silver`, was `rosalia`. Branch: `scale-and-silver`.)
+`feedback/progress.md`. (Book slug `scale-and-silver`, was `rosalia`.)
+
+> **REPO + BRANCH (2026-07-10):** This book's home is the standalone repo
+> `knightdx91-alt/A-Bond-of-Scale-and-Silver`; work on **`main` only** (see root `CLAUDE.md` branch
+> policy). The copy in `The-Saeren-Chronicles` is FROZEN. **`feedback/progress.md` → "▶ RESUME HERE"
+> is the live pick-up point** for the post-completion revision session (line edit, beta panel, de-tic,
+> feeding + timeline fixes done; Ch.29/Ch.27 time-thinning + beta #4/#5 + production track still open).
 
 ## What this is
 A **genesis-from-idea** project: build a NEW ~150k-word **ADULT romantasy** from the author's
