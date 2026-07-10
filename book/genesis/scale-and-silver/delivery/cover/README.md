@@ -24,6 +24,13 @@ python3 concept-A_make_cover.py            # writes cover.html
   --force-device-scale-factor=1 --window-size=1600,2560 --screenshot=out.png "file://$PWD/cover.html"
 ```
 
+## Files
+- `front-cover-post-peleos.png` — the decided final front (1600×2263). Has an ~87px white strip
+  at the very bottom (below the author line).
+- `front-cover-post-peleos-clean.png` — same art with that white strip cropped (1600×2176), so the
+  dark art bleeds edge-to-edge. Use this as the canonical front/ebook asset; the wrap builder crops
+  the white strip on the fly from the original, so either source produces the same front panel.
+
 ## Status (2026-07-10)
 - **Author name** — set: **Post Peleos** (on the final front `front-cover-post-peleos.png`).
 - **Print wrap** — ✅ BUILT. `production/compose_wrap.py` lays out back + spine + front on one
