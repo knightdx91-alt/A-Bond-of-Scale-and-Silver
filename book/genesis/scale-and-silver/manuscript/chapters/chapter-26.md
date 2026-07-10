@@ -8,7 +8,7 @@ He waited above the lower pool where the old fish-house stood, a stone shell wit
 
 She came out of the mist on the west road a little after the light did.
 
-He knew her before he could have sworn to a single thing about her. Knew her the way you know the one voice in a market. A hooded shape, and a second shape behind it that stopped at the broken gate and did not come on. The first shape came down the last of the road toward the fish-house, hands in her sleeves, head up, not hurrying, sure of her way. The hood came back off pale hair gone near to grey in the wet morning. It was her. It was her, and the weeks came apart in his chest all at once.
+He knew her before he could have sworn to a single thing about her. Knew her the way you know the one voice in a market. A hooded shape, and a second shape behind it that stopped at the broken gate and did not come on. The first shape came down the last of the road toward the fish-house, hands in her sleeves, head up, not hurrying, sure of her way. The hood came back off pale hair gone near to grey in the wet morning. It was her. It was her, and something came apart in his chest all at once.
 
 He did not run to her. It was not doubt. The whole way, he had built this loud in his head, and now that she was here it had gone very quiet, and the quiet was the truest thing, and he did not want to spend it running.
 
@@ -22,7 +22,7 @@ She stopped an arm's length off. Close enough to touch and not touching. The way
 
 "You didn't light the fire."
 
-"You didn't come down." She looked up at him, and the small living thing he had spent the weeks trying to hold in his head came up into her face and it was better than the one he had held. "We threw each other away one more time. In the dark. A mile apart. So the other one would live." A corner of her mouth moved, the almost-smile, the specialty. "I have decided I am done doing that. I walked into a war to be done doing that. I would like it on the record that I got here first."
+"You didn't come down." She looked up at him, and the small living thing he had spent so long trying to hold in his head came up into her face and it was better than the one he had held. "We threw each other away one more time. In the dark. A mile apart. So the other one would live." A corner of her mouth moved, the almost-smile, the specialty. "I have decided I am done doing that. I walked into a war to be done doing that. I would like it on the record that I got here first."
 
 "You did not get here first," he said. "I've been on that crag since before the light."
 
@@ -48,13 +48,13 @@ Her cold hand closed in his hot one. She held on. He turned and drew her in unde
 
 She had built this a hundred ways on the road and it had gone wrong every one of them.
 
-In the good version she came over a hill and there he was and the weeks fell off and she was in his arms without a step taken to get there, all of it easy, all of it deserved, the reward at the end of the walking. She had never believed the good version. She was not built to believe rewards. So she had built the other kinds too, harder and more likely: that he would not come, that he would come changed, that they would stand in front of each other with the weeks of war between them and find two strangers where the two people from the garden had been, and have nothing to say, and know it.
+In the good version she came over a hill and there he was and the whole hard road fell off and she was in his arms without a step taken to get there, all of it easy, all of it deserved, the reward at the end of the walking. She had never believed the good version. She was not built to believe rewards. So she had built the other kinds too, harder and more likely: that he would not come, that he would come changed, that they would stand in front of each other with a war between them and find two strangers where the two people from the garden had been, and have nothing to say, and know it.
 
 None of them was this. She had not built this, because she had not known how.
 
-The fish-house was small and stank of old nets and the fall filled it wall to wall with sound. He had spread what he had in the dry corner, the folded dead-man's coat, a horse-blanket gone stiff with weather, not much, the poor camp of a man who owned nothing and had crossed a country. She stood in the middle of it dripping and looked at him in the grey light coming down through the broken slates, and checked the weeks' wear on him the way she checked a coin.
+The fish-house was small and stank of old nets and the fall filled it wall to wall with sound. He had spread what he had in the dry corner, the folded dead-man's coat, a horse-blanket gone stiff with weather, not much, the poor camp of a man who owned nothing and had crossed a country. She stood in the middle of it dripping and looked at him in the grey light coming down through the broken slates, and checked the wear the road had put on him the way she checked a coin.
 
-He was thinner. The bones of him stood up harder than they had. There was a whiteness in the hair over one ear that had not been there in the shieling, and a stillness in him that had. Weeks of being the loneliest thing alive had gone into his face and set, weeks that had worn on him like a year. But the eyes that came up to her face were the same eyes, and they did to her what they had done in the garden, which was to find her and not the use of her, not the witch, not the weapon, not the Queen's daughter, not the banner. A person standing in a room.
+He was thinner. The bones of him stood up harder than they had. There was a whiteness in the hair over one ear that had not been there in the shieling, and a stillness in him that had. The loneliest weeks a man could live had gone into his face and set, and worn on him like a year. But the eyes that came up to her face were the same eyes, and they did to her what they had done in the garden, which was to find her and not the use of her, not the witch, not the weapon, not the Queen's daughter, not the banner. A person standing in a room.
 
 She had walked into a war for that look. She looked at it now across six feet of loud dark and understood she had not overpaid.
 
@@ -92,7 +92,7 @@ She closed the half-inch.
 
 She kissed him with none of the shieling's blind hunger in it. That first time she had crossed a fire half-starved and frozen, the two of them unproven, everything decided in the dark by two people too spent to lie about it. This was weeks on, and every week of it had felt like a year. This was a woman who had stood in a square and stopped six hearts and come up a war-road against the whole southward run of a fleeing country to reach him, and she kissed him like every mile of it, unhurried and certain, a thing settled somewhere far back and not up for argument.
 
-"The shieling was me frozen half to death," she said against his jaw. Her cold fingers were already working the horn buttons of his shirt, quick and sure, no fumbling in them now. "I could barely feel my own hands. I have spent every week since furious that I did not get to do it properly. Take this off."
+"The shieling was me frozen half to death," she said against his jaw. Her cold fingers were already working the horn buttons of his shirt, quick and sure, no fumbling in them now. "I could barely feel my own hands. I have spent every day since furious that I did not get to do it properly. Take this off."
 
 He got it off. Her palms came flat to the bare heat of him, and this time they did not stop at his chest. They went down, over the plane of his belly to the fastening of his breeches, and her cool clever hands freed him and closed around him, and the shock of her cold grip pulled a sound out of him he did not choose.
 
@@ -110,9 +110,9 @@ He got a hand into her silver hair. Not to push. Only to hold to something in a 
 
 He let her have it far longer than was wise. She took him to the trembling edge of it with her cold hand and her hot mouth and her eyes on his face, and when he felt it start to go he reached down and stilled her by the jaw, shaking, barely holding.
 
-"Stop — Amelia — if you keep on I'm finished, and I am not spending weeks of wanting into your mouth in the first hour of you."
+"Stop — Amelia — if you keep on I'm finished, and I am not spending all that wanting into your mouth in the first hour of you."
 
-She lifted her head, slow, and the look she gave him was pure dark satisfaction, her voice gone rough from the use of it. "Noted," she said. "For later. I mean to have that too before the week is out. But not yet." She sat back on her heels over him. "I've had my mouth on you. Now I want the rest, and I mean to take it my own way."
+She lifted her head, slow, and the look she gave him was pure dark satisfaction, her voice gone rough from the use of it. "Noted," she said. "For later. I mean to have that too before this is over. But not yet." She sat back on her heels over him. "I've had my mouth on you. Now I want the rest, and I mean to take it my own way."
 
 \*
 
@@ -124,9 +124,9 @@ Then she sank down.
 
 She did it slowly. So slowly it near killed him. Down she came, taking him into her by inches, the thick of him a little at a time, her cold thighs shaking with the care of it, her breath going out of her in one long unsteady sound as the stretch of him opened her, and she did not hurry it and she did not once look away from his face. He lay under her with his hands fisted in the blanket where she had put them, and let her have the whole of it in her own keeping. He felt every inch of her take him. Felt her body give around him, tight and slick and gripping, closing hot down the length of him, until she had seated the whole of him inside her and sat flush against his hips with a low broken sound of pure want. Her head went back. Her silver hair fell down the pale line of her spine.
 
-She held there a moment, only to feel him in her, filled and stretched and finally, after all the weeks of it, not a plank's width away. "There," she breathed. "There. God, the feel of you." She rolled her hips once, learning the drag of him inside her, and shuddered at what it did, and did it again, slower, taking her own pleasure from the fit of him. "I have wanted this in me for weeks and told myself I didn't. I am done lying about it." She set her cold hands flat to his chest, over the hard fast knock of his heart, and began to ride him in earnest.
+She held there a moment, only to feel him in her, filled and stretched and finally, after all of it, not a plank's width away. "There," she breathed. "There. God, the feel of you." She rolled her hips once, learning the drag of him inside her, and shuddered at what it did, and did it again, slower, taking her own pleasure from the fit of him. "I have wanted this in me since the shieling and told myself I didn't. I am done lying about it." She set her cold hands flat to his chest, over the hard fast knock of his heart, and began to ride him in earnest.
 
-He set his big hands on her hips and let her have it, and letting her have him was its own undoing. She worked herself on him at exactly the pace she chose and no faster, silver hair wild, the cold gone out of her skin at last and a flush come up in its place. He slid his broad hands up off her hips to her breasts, took the cold weight of them in his palms, and worked the stiff peaks of her nipples under his thumbs in time with the roll of her hips. She arched into his hands and rode him harder for it. She got a cold hand down between them to the swollen bud of her where they were joined and set her own rhythm on it. He watched the count go out of her eyes and the whole hunted governed run of weeks fall off her. When she came it was with her head thrown back and her cold body clenching down the length of him, and a cry the falls did not quite take. He held still under her and let her ride out every pulse of it on him, and did not let himself go with her, held by the one leash that had never slipped.
+He set his big hands on her hips and let her have it, and letting her have him was its own undoing. She worked herself on him at exactly the pace she chose and no faster, silver hair wild, the cold gone out of her skin at last and a flush come up in its place. He slid his broad hands up off her hips to her breasts, took the cold weight of them in his palms, and worked the stiff peaks of her nipples under his thumbs in time with the roll of her hips. She arched into his hands and rode him harder for it. She got a cold hand down between them to the swollen bud of her where they were joined and set her own rhythm on it. He watched the count go out of her eyes and the whole hunted governed run of it fall off her. When she came it was with her head thrown back and her cold body clenching down the length of him, and a cry the falls did not quite take. He held still under her and let her ride out every pulse of it on him, and did not let himself go with her, held by the one leash that had never slipped.
 
 \*
 
@@ -140,7 +140,7 @@ He gathered her down with him onto the blanket, still joined, both arms around h
 
 "There," she said, into his throat, and there was a rough laugh under it. "That is the man I came a hundred miles for. Not the careful one. That one."
 
-For a while neither of them moved, and that was the strangest part of it. In the shieling there had been a scrape of stone in the fold and a road at their backs, and they had taken what warmth they could like two people robbing a house they had to be clear of by dawn, half of each of them still standing watch. There was none of that in him now. The weeks were on the far side of this. The hunted mile was behind. Here in the last dry corner before the crossing there was, for one hour, nothing at all to answer to, and he had never believed the after could feel like this. He lay with the cold length of her tucked against him and found his hands with nothing to hold shut and nowhere to be, and did not know what to do with the quiet except keep still inside it and let it go on being true.
+For a while neither of them moved, and that was the strangest part of it. In the shieling there had been a scrape of stone in the fold and a road at their backs, and they had taken what warmth they could like two people robbing a house they had to be clear of by dawn, half of each of them still standing watch. There was none of that in him now. All of it was on the far side of this. The hunted mile was behind. Here in the last dry corner before the crossing there was, for one hour, nothing at all to answer to, and he had never believed the after could feel like this. He lay with the cold length of her tucked against him and found his hands with nothing to hold shut and nowhere to be, and did not know what to do with the quiet except keep still inside it and let it go on being true.
 
 \*
 
