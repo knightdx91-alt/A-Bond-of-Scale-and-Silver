@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Saeren Chronicles — mechanical grammar / line-craft gate.
+A Bond of Scale and Silver — mechanical grammar / line-craft gate.
 
 Built 2026-06-29 after reviewer Eilidh Locherty's Book One Ch.1 line-edit exposed a
 class of slips the style/rhythm gates do NOT catch: tense/verb-form endings, doubled
@@ -16,7 +16,7 @@ TWO TIERS:
      These are unambiguous typos with near-zero false positives.
   TIER 1 REPORT (non-gating, judgement needed):
      - the longest sentences per chapter (the over-packed habit). NOT gated, because the
-       Book Two/Three house voice uses long polysyndeton on purpose — surfaced so a human
+       house voice uses long polysyndeton on purpose — surfaced so a human
        runs the checklist rule "split at least one of the 3 longest unless load-bearing."
      - double spaces between words.
   TIER 2 (optional, non-gating WARNINGS): full tense/agreement/dangling-modifier scan via

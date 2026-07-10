@@ -14,7 +14,7 @@ open, non-blocking step. Use this so we don't re-learn the corrections from scra
 Build a single master first: `manuscript/full-manuscript.md` = title page + all 29 chapters
 in order. Use `reference/assemble_manuscript.py` as the base — **adapt before running:**
 - Extend `NUMWORDS` to 29 (Saeren's stops at 18).
-- Title page → *A BOND OF SCALE AND SILVER* / *The Saeren Chronicles, Book One* (confirm series
+- Title page → *A BOND OF SCALE AND SILVER* / *a novel* (standalone — no series
   line with author).
 - This book's chapter titles live in each file's `# Chapter Twenty-Seven — Outlasted (I)` head;
   the Saeren script pulled titles differently — verify the title-extraction matches our format.

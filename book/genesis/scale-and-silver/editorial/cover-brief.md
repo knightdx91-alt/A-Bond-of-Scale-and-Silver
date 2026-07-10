@@ -1,6 +1,6 @@
 # Cover Brief — *A Bond of Scale and Silver*
 
-> Book One of *The Saeren Chronicles* · Adult romantasy
+> Standalone adult romantasy · ~154,000 words
 > For the cover designer. Visual language, not narrative. Direction, not an image spec.
 
 ## Emotional Concept
@@ -33,7 +33,7 @@ The single feeling the cover must evoke: **cold intimacy under a hunter's moon**
 
 ## Typography
 
-- **Title treatment:** strong serif with a cold, high-contrast edge — refined but weighty. Consider a faint silver-to-red or silver-to-ember gradient echoing scale-and-silver. *A BOND OF SCALE AND SILVER* dominant; *THE SAEREN CHRONICLES · BOOK ONE* set smaller as the series line.
+- **Title treatment:** strong serif with a cold, high-contrast edge — refined but weighty. Consider a faint silver-to-red or silver-to-ember gradient echoing scale-and-silver. *A BOND OF SCALE AND SILVER* dominant; no series line (standalone). An author-name line sits smaller beneath.
 - **Author name:** moderate, debut-appropriate prominence, clean, secondary to the title.
 - **Genre signals:** dark cool palette + a single luminous element (moon/silver hair) + a dragon silhouette + serif title = the adult-romantasy / dark fantasy-romance shelf (Broadbent / Jensen register), distinct from breezy YA-fantasy sans-serif.
 - **Adult-shelf signal:** enough darkness and restraint to read grown-up; a small spice/heat cue is optional per retailer norms but the cover should sell danger and intimacy, not teen adventure.

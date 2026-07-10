@@ -5,7 +5,7 @@ Adapted for *A Bond of Scale and Silver* (29 chapters). Book-specific vs. the
 Saeren reference script:
   - 29 chapters; headings are "# Chapter <word|digit> — <Title>" (em-dash).
     Ch.14/15/16 use digits in-file; we normalize every chapter label to WORDS.
-  - Title page: A BOND OF SCALE AND SILVER / The Saeren Chronicles, Book One.
+  - Title page: A BOND OF SCALE AND SILVER / a novel (standalone; no series line).
   - Scene breaks in-file are a mix of "*", "\\*", "---", and dash runs; all are
     normalized to a single centered "* * *".
   - Strips markdown "#" heads and HTML comments; collapses 4+ blank-line runs.
@@ -19,7 +19,7 @@ CH_DIR = os.path.join(ROOT, "manuscript", "chapters")
 OUT = os.path.join(ROOT, "manuscript", "full-manuscript.md")
 
 TITLE = "A BOND OF SCALE AND SILVER"
-SERIES = "The Saeren Chronicles, Book One"
+SERIES = "a novel"
 
 NUMWORDS = {
     1: "ONE", 2: "TWO", 3: "THREE", 4: "FOUR", 5: "FIVE", 6: "SIX", 7: "SEVEN",

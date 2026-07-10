@@ -1,6 +1,6 @@
 # Logline — *A Bond of Scale and Silver*
 
-> Book One of *The Saeren Chronicles* · Adult romantasy · ~154,000 words
+> Standalone adult romantasy · ~154,000 words
 
 ## Logline (one line)
 

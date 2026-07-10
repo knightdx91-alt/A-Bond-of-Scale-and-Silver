@@ -110,7 +110,7 @@ Bishop builds it with a specific split — do the same for Korvan the dragon:
   Bishop is plainer than that. Combined simile+metaphor markers must hold **≤ 3.0 / 1,000**.
 - **Clever/ornamental images: target 0.** The cut "eats voices" line is the type specimen. If
   an image makes a smart reader pause to admire or decode it, kill it.
-- **Em-dashes: ≤ 9–10 per chapter (author-set 2026-07-08).** Raised from Saeren's strict 4
+- **Em-dashes: ≤ 9–10 per chapter (author-set 2026-07-08).** Raised from the prior pipeline's strict 4
   toward the Bishop comp (she runs ~18/chapter); we take the middle path. Still prefer the
   period where either works.
 - **Adverbs: ALLOWED (correction).** Bishop uses `-ly` adverbs freely (~15/1k) and adverb
@@ -188,7 +188,7 @@ Rotate registers so the cold-counting mode is not the default in every scene.
   sound travels; rations warmth.
 - **Never says:** Slang, crude oaths, anything sloppy; never says "magic" (always **magyk**).
 - **Appearance:** Silver hair — cold, near-grey in low light; the moonlit look of the first
-  natural-born vampire. Distinct from Saeren's Viridia (not "silver-blonde").
+  natural-born vampire. Do NOT use "silver-blonde" (a different project's character).
 
 #### Korvan (POV)
 - **Vocabulary band:** Plain, concrete, physical; craft words (fire, rope, grip, weight).

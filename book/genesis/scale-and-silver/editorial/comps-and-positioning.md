@@ -1,6 +1,6 @@
 # Comps & Positioning — *A Bond of Scale and Silver*
 
-> Book One of *The Saeren Chronicles* · Adult romantasy · ~154,000 words · dual-POV
+> Standalone adult romantasy · ~154,000 words
 
 ## Positioning line
 
@@ -35,6 +35,6 @@
 
 **Front matter:** half-title page · title page · copyright page · (optional) dedication · (optional) epigraph · **content/heat advisory** (given the adult explicit content — place in front matter; adult romantasy convention).
 
-**Back matter:** acknowledgments · about the author · "also by" / series page (*The Saeren Chronicles*) · optional Book Two teaser.
+**Back matter:** acknowledgments · about the author · optional discussion questions.
 
 > Build these in the production track alongside the CMYK cover wrap once spine width is set from the 444-page 6×9 interior. See `production/PRODUCTION-PLAYBOOK.md`.

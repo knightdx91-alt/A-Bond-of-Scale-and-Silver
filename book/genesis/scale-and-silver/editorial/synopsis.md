@@ -1,6 +1,6 @@
 # Synopsis — *A Bond of Scale and Silver*
 
-> Book One of *The Saeren Chronicles* · Adult romantasy · ~154,000 words
+> Standalone adult romantasy · ~154,000 words
 > Present tense. The 2–3 page version is **spoiler-complete** (reveals the ending) for agents/editors.
 
 ---
@@ -41,4 +41,4 @@ Elsewhere, KORVAN, the shifter chief's only son (mother dead, no siblings), is a
 
 **Resolution.** As Rosalia's natural-born heir, AMELIA TAKES THE THRONE — the first natural-born vampire to rule, the contraband girl now seen openly. It is her want granted as a new and finer cage: she inherits the crown but chooses how to wear it, refusing a succession proclamation that would "prove" her born, and overruling her own council to spare Loric's men and the far bank. Korvan, down but alive, refuses the slot of "the Queen's dragon" and claims the shape as his own authored place — hers by choice, and she his. **The clan of one is now two.** Loric is outlasted and contained; the war is redirected, not undone; the peace is uneasy and paid for in Rosalia and Maren. The couple ends *two banks of the same water* — together because they chose, never the same life.
 
-**Thematic resonance.** The book asks what it costs to be *seen on your own terms* in a world built to keep you hidden, and whether a thing chosen is worth more than a thing you were born or fated to. Amelia gets everything she wanted — to exist openly, to rule — and it arrives as loss: truth, in the end, changes almost nothing; the crown sits on the girl no one was allowed to see. Against a genre of destined mates and tidy triumph, *A Bond of Scale and Silver* insists that love and agency mean nothing without cost, and that being finally visible is its own kind of exile. Book One completes its arc while opening the runway for *The Saeren Chronicles* to follow.
+**Thematic resonance.** The book asks what it costs to be *seen on your own terms* in a world built to keep you hidden, and whether a thing chosen is worth more than a thing you were born or fated to. Amelia gets everything she wanted — to exist openly, to rule — and it arrives as loss: truth, in the end, changes almost nothing; the crown sits on the girl no one was allowed to see. Against a genre of destined mates and tidy triumph, *A Bond of Scale and Silver* insists that love and agency mean nothing without cost, and that being finally visible is its own kind of exile. The novel is a complete, self-contained story.

@@ -1,6 +1,6 @@
 A BOND OF SCALE AND SILVER
 
-The Saeren Chronicles, Book One
+a novel
 
 
 

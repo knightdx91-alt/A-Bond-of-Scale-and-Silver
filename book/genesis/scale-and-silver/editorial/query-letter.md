@@ -6,7 +6,7 @@
 
 Dear [Agent Name],
 
-Because you're seeking adult romantasy with dangerous women, morally grey courts, and a slow burn that earns its heat, I'm hoping you'll connect with **A BOND OF SCALE AND SILVER**, an adult romantasy complete at **154,000 words** and the first book of a planned trilogy, *The Saeren Chronicles*.
+Because you're seeking adult romantasy with dangerous women, morally grey courts, and a slow burn that earns its heat, I'm hoping you'll connect with **A BOND OF SCALE AND SILVER**, a standalone adult romantasy complete at **154,000 words**.
 
 Amelia is the impossible thing the treaty between vampires, shifters, and humans never imagined: the first vampire *born*, not made, in a thousand years — the Queen's secret daughter, hidden her whole life behind a bolt, cherished and caged in equal measure. She carries blood magyk that should not be heritable, and no proof exists that she was born rather than made. Under a treaty that forbids making new vampires, that ambiguity is a war waiting for a spark. The spark is Loric, a schemer poisoned by a grief the Queen doesn't even remember causing, who exposes Amelia at a banquet to force the shifter chief into a war he cannot win either way.
 
@@ -24,4 +24,4 @@ Warmly,
 
 ---
 
-*Metadata:* **A Bond of Scale and Silver** · adult romantasy (fantasy romance) · ~154,000 words · dual-POV · Book One of *The Saeren Chronicles* (planned trilogy) · complete and polished.
+*Metadata:* **A Bond of Scale and Silver** · adult romantasy (fantasy romance) · ~154,000 words · dual-POV · standalone · complete and polished.

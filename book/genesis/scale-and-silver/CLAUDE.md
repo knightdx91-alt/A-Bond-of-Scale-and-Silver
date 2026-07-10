@@ -136,7 +136,7 @@ python3 tools/voice_wear_check.py            # exits non-zero on real wear
 
 ## Recurring craft mistakes — NEVER repeat (read before drafting every chapter)
 
-Ported from the Saeren calibration (reviewer Eilidh Locherty's line-edit + Dana Flanders'
+Ported from an earlier calibration (reviewer Eilidh Locherty's line-edit + Dana Flanders'
 developmental notes; see `feedback/beta-lessons-checklist.md`), adapted for this adult/Bishop
 book. The root habit to avoid: **prose that serves atmosphere at the expense of the reader's
 plain comprehension.** The fix is Bishop's register — clarify without flattening.
@@ -177,7 +177,7 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
   pact over humans; ruled by a **Queen** with **blood magyk**.
 - **The Queen's name is ROSALIA** (Amelia's mother). "Rosalia" is a CHARACTER name, not the
   world/series name; the book's title is *A Bond of Scale and Silver*.
-- **Amelia has SILVER HAIR** (cold near-grey; distinct from Saeren's Viridia) and is **NOT a
+- **Amelia has SILVER HAIR** (cold near-grey; do NOT use 'silver-blonde') and is **NOT a
   victim** — strong inherited blood magyk; hunted because dangerous/valuable, never rescued.
 - **Korvan** is dangerous-but-devoted (Bishop's Daemon technique): lethal as the dragon, gentle
   with Amelia; the narration carries the cold undertone while his actions are tender.
@@ -217,10 +217,10 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
   two concrete rulings, Korvan claims the dragon as his own ('the clan of one is now two'), residue
   un-bowed. Canon guardrails held throughout. **WHOLE-BOOK AUDITS DONE:** continuity-guardian pass
   (0 critical, 5 warning + 4 minor — all 5 warnings + 2 minor contradictions FIXED gate-clean; roan
-  gelding / Selwyn betrothal / Della accepted as Book-Two seeds); voice-consistency audit PASS
+  gelding / Selwyn betrothal / Della accepted as deliberately-open threads); voice-consistency audit PASS
   (Bishop register + POV differentiation hold Ch.1–29); META/fourth-wall narration confirmed NONE.
   Reports in `evaluations/`. **NEXT (all OPTIONAL / non-blocking):** reassemble full-manuscript.md +
-  PDF; book-packager editorial package + formatting; open author decisions before Book Two. See
+  PDF; book-packager editorial package + formatting; resolve the deliberately-open threads only if a sequel is ever pursued (standalone; none planned). See
   `feedback/progress.md`.
 - **(history) 2026-07-10 — DRAFTING, 27 of 29 chapters FINALIZED (Ch.1–27, all Genesis Floor ≥ 8.5).**
   Manuscript **~141,433 words** (already over the 140k floor with 2 chapters left). Both explicit

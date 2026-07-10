@@ -1,6 +1,6 @@
 # Back-Cover Copy — *A Bond of Scale and Silver*
 
-> Book One of *The Saeren Chronicles* · Adult romantasy
+> Standalone adult romantasy · ~154,000 words
 > No spoilers. Hooks and entices; does not resolve.
 
 ---
@@ -23,13 +23,13 @@ On the run at last, Amelia crosses paths with Korvan, the shifter chief's outcas
 
 *A dark, adult romantasy of dangerous devotion, chosen love, and the terrible price of the truth.*
 
-**For readers of Carissa Broadbent, Danielle L. Jensen, and Anne Bishop.** Book One of *The Saeren Chronicles*.
+**For readers of Carissa Broadbent, Danielle L. Jensen, and Anne Bishop.**
 
 ---
 
 ## Short variant (jacket flap / catalog, ~70 words)
 
-The first vampire born in a thousand years, Amelia has been hidden her whole life — until a schemer exposes her to start a war she never chose. On the run, she meets Korvan, an outcast whose first shift makes him a dragon out of dead legend, a clan of one. Two hunted things learn each other on the road, and the cost of finally being seen comes due at a crown neither of them wanted. Book One of *The Saeren Chronicles*.
+The first vampire born in a thousand years, Amelia has been hidden her whole life — until a schemer exposes her to start a war she never chose. On the run, she meets Korvan, an outcast whose first shift makes him a dragon out of dead legend, a clan of one. Two hunted things learn each other on the road, and the cost of finally being seen comes due at a crown neither of them wanted.
 
 ---
 
@@ -37,7 +37,7 @@ The first vampire born in a thousand years, Amelia has been hidden her whole lif
 
 ```
 A Bond of Scale and Silver
-The Saeren Chronicles · Book One
+A Bond of Scale and Silver · a novel
 [Author Name]
 
 Fiction / Fantasy / Romance (Adult romantasy)

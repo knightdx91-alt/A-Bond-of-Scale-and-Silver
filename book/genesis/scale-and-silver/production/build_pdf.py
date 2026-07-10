@@ -9,7 +9,7 @@ Margins (mirrored): inside/gutter 0.875", outside 0.625", top 0.75", bottom 0.70
 Fonts: IBM Plex Serif (Regular/Italic/Bold/BoldItalic), fully embedded.
 Body: 11pt / 15.5pt leading, justified, 16pt first-line indent (no indent on
   the first paragraph of a chapter or after a scene break).
-Output: delivery/production/Saeren-Chronicles-Book-One-6x9-interior.pdf
+Output: delivery/production/A-Bond-of-Scale-and-Silver-6x9-interior.pdf
 
 NOTE: This produces an embedded-font, exact-trim, correctly-margined RGB PDF.
 IngramSpark's *preferred* format is PDF/X-1a:2001 (CMYK + output intent); that
@@ -129,8 +129,7 @@ def build():
     story.append(Spacer(1, 1.8*inch))
     story.append(Paragraph("A BOND OF SCALE AND SILVER", title_main))
     story.append(Spacer(1, 0.35*inch))
-    story.append(Paragraph("The Saeren Chronicles", title_sub))
-    story.append(Paragraph("Book One", title_sub))
+    story.append(Paragraph("a novel", title_sub))
     story.append(PageBreak())
     # blank verso
     story.append(Spacer(1, 1*inch))
@@ -168,7 +167,7 @@ def build():
 
     frame = Frame(M_SIDE, M_BOT, TRIM_W - 2*M_SIDE, TRIM_H - M_TOP - M_BOT, id="text")
     doc = BaseDocTemplate(OUT, pagesize=(TRIM_W, TRIM_H),
-                          title="A Bond of Scale and Silver - The Saeren Chronicles, Book One",
+                          title="A Bond of Scale and Silver",
                           author="", leftMargin=M_SIDE, rightMargin=M_SIDE,
                           topMargin=M_TOP, bottomMargin=M_BOT)
     front = PageTemplate(id="front", frames=[frame], onPage=front_page)

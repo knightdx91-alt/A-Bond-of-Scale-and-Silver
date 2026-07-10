@@ -140,7 +140,7 @@ betrothal (MINOR-003), Della's fate (MINOR-004) — deliberate open threads awai
   canon guardrails intact.
 - **NEXT — all OPTIONAL / non-blocking:** (a) reassemble `full-manuscript.md` + build PDF;
   (b) `book-packager` editorial package (logline/synopsis/query/cover) + ebook/print formatting;
-  (c) resolve open author decisions before Book Two (the roan gelding, Selwyn's betrothal, and
+  (c) the deliberately-open threads (the roan gelding, Selwyn's betrothal, and
   Della are logged deliberate seeds awaiting author intent).
 
 ### (superseded) ✅ BOOK ONE COMPLETE (2026-07-10) — all 29 chapters finalized
@@ -163,7 +163,7 @@ betrothal (MINOR-003), Della's fate (MINOR-004) — deliberate open threads awai
 - **NEXT — all OPTIONAL / non-blocking:** (a) whole-book QA + `continuity-guardian` sweep over all
   29 (final polish/consistency); (b) reassemble `full-manuscript.md` + rebuild PDF; (c)
   `book-packager` editorial package (logline/synopsis/query/cover) + ebook/print formatting;
-  (d) resolve open author decisions before Book Two.
+  (d) the deliberately-open threads (standalone; no sequel planned).
 
 ### Resume point (2026-07-10, superseded) — Ch.28 FINALIZED (CLIMAX COMPLETE), start Ch.29 (LAST chapter, aftermath)
 - **Ch.28 "Outlasted (II)" [Amelia]** FINALIZED: 5,055 words. Climax part 2 / final beat. Genesis
