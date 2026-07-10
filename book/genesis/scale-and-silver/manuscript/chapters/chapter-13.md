@@ -88,7 +88,7 @@ He wiped his mouth with the back of a hand that had not quite stopped trembling,
 
 Then he was gone, and the rocks were empty, and it was only the two of them again at the black water under the enormous stars, and Amelia stood shaking now, the ice breaking up in her at last, the cost of it all coming due at once, and did not dare turn around and look at Korvan, because she had just let him see the whole of what she was, and there was no unseeing it, and she did not think she could bear to watch him decide to be afraid of her the way the whole world was right to be.
 
-She heard him come to stand beside her at the water. She did not turn. She waited for the distance to open, the careful step back, the fear finding him the way it found everyone.
+She heard him come to stand beside her at the water. She did not turn.
 
 "You broke a promise, doing that," he said. "I could see it on you. It cost you more than the seven of them. What was it."
 
