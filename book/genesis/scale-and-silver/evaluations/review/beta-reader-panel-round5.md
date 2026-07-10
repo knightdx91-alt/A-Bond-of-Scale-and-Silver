@@ -120,3 +120,49 @@ The named scene-end theses are converted to image/action, including the Critic's
 ---
 
 **BIAS CHECK:** This evaluation was produced by the same system that generated the prose. The two persona scores at/above 9.0 (Devourer 9, Devoted 9.5) reflect genre-reader enthusiasm for on-target couple beats and should be confirmed by external human romantasy beta readers before being treated as settled. The Critic's 8.0 "as pitched" and the Hostile's held 7.5 are the more conservative anchors and the safer basis for a submission decision.
+
+---
+
+## ROUND 6 ADDENDUM — Devourer + Critic re-score on the Ch.24 yearning beat
+
+**Scope:** targeted re-run of ONLY the two personas whose R4/R5 ceilings sat on couple page-time. ONE change since R5: a NEW separation-trough **bodily-yearning beat** added at the Ch.24 close (Amelia POV, ¶125–137), the paragraph beginning *"And under all of it her body wanted him, plainly, in the cold at the foot of the lane."* It gives Amelia's reach-toward-Korvan a BODY (remembered heat of him at her back in hut/shieling/cold-camp, the arm he laid over her, "the careful hands that had never been afraid of what she was," "she wanted his hands on her and the cold gone out of her for an hour"), and that physical want is what turns her east — bridging into Ch.25's "Toward the Same Fire" Korvan open. Read in context of the surrounding couple page-time: the Ch.21 cold-camp open, the Ch.26 reunion, the Ch.29 claim-kiss. **This was R5's single named "highest-value optional lever": one brief cross-POV connection/yearning beat in the Ch.22–25 separation trough.** Canon honored throughout (silver hair; magyk; Amelia dangerous-not-victim; no sexual violence; TWO deliberate explicit scenes Ch.18 + Ch.26; bittersweet ending intentional).
+
+### 1. THE DEVOURER — adult-romantasy superfan
+
+Five rounds I asked for couple presence in the cold middle, and R5 handed me the Ch.21 open. Now they've done the thing I didn't even name because I thought it was off the table: they put *want* inside the trough itself, in HER voice, and hung the whole eastward turn on it. This is the beat. "Her body wanted him, plainly... not decently and not gently" — and then the specific bodily inventory, the heat of him at her back "in a hut and a shieling and a cold camp behind a dyke," the careful hands, "she wanted his hands on her and the cold gone out of her for an hour." That is my shelf's engine — longing given a body, wanting-what-you-can't-reach — dropped into the exact stretch (Ch.22–25) I've logged as romance-cold for six rounds. And it's the mirror of the Ch.21 open: there HE lay awake memorizing "the exact shape and weight and chill of her"; here SHE reaches back for his heat across a hundred cold miles. Cross-POV, answered, and it pays straight into Ch.25's "Toward the Same Fire." The trough is no longer cold. My scorecard is a couple scorecard, and for the first time the middle of the book has couple heat in it — non-explicit, but present-tense want, which is what I actually read for between the two scenes.
+
+Held off a perfect only by the thing I've made peace with: it's yearning across distance, not a shared scene, because the architecture keeps them apart to Ch.26 and the ending keeps them throne/mews. That's the book, not a flaw. But the felt intimacy across the whole arc just went up again without spending a third explicit scene — the trick I said last round I didn't think could be done, done once more.
+
+**Verdict:** Buy. **9.5/10** (R5: 9.0, **+0.5**). They put present-tense want into the one cold stretch I've flagged since round one, in her voice, and hung the reunion turn on her body. The last thing I'd have asked for, delivered on-voice.
+
+### 2. THE CRITIC — developmental editor / agent
+
+For four rounds I named the same single structural residue: the leads apart a fifth of the book (Ch.21–26), warmed at the edges but with a cold interior (Ch.22–25) carrying no couple presence. R5 spent the last edge-lever (Ch.21 open, Ch.29 claim) and I moved to a clean 8.0 "as pitched," holding there explicitly because *the beats warm the trough, they don't restructure it — Ch.22–25 remains the only romance-cold stretch.* This beat goes into that exact stretch. It does not restructure the architecture — it is ~200 words of single-POV interior yearning at a chapter close, and I won't pretend it rebuilds the middle. But it does the one thing I said was still available: it puts the couple, in felt present-tense want, INSIDE the cold interior, and it makes that want structurally load-bearing (it is the stated engine of Amelia's eastward turn to the reunion — motivation, not decoration). That is the difference between a trough that is romance-absent and one that is romance-quiet-but-present. The specific complaint I have carried since R1 — "the couple has no page-time in Ch.22–25" — no longer has an object. It is answered.
+
+Craft notes, because they're the honest read. It is on-voice: the want rises "the way the gift came up, sudden and total and no respecter of the hour," binding desire to her blood-magyk signature rather than importing a generic swoon — that is Amelia's cognition, not romantasy boilerplate. It is fresh against the Ch.21 open (his cold-inventory memorized; her heat-inventory reached-for — a deliberate POV inversion, not an echo), and it stays firmly non-explicit, so the two-scene canon and the bittersweet architecture are untouched. One professional caution, unchanged from R4/R5 and now the operative one: the couple-page-time lever is **spent.** There is no further trough beat to add short of a third explicit scene or an actual structural rebuild, and neither is warranted. From here the residue is architecture-taste — B-plot romance, leads apart a fifth of the book — which is a shelf decision, not a defect, and the round-6 beat makes the romantasy pitch fully defensible on the page across the whole arc.
+
+**Verdict:** Yes — submittable; revise-light is done. **8.5/10** (R5: 8.0, **+0.5**). The last named page-time lever is taken and it lands: the Ch.22–25 cold-stretch complaint I have carried every round is closed, on-voice and load-bearing. Held at 8.5, not higher, because the underlying apart-a-fifth architecture is unchanged by design — but that is now taste, and the pitch is defensible without it.
+
+### The four verdicts (both personas)
+
+**(a) Does it close the "Ch.21–26 separation has no couple page-time" gap?**
+YES for the trough specifically. The named romance-cold stretch (Ch.22–25) now carries present-tense couple want in Amelia's POV, mirroring the Ch.21 Korvan open and bridging into Ch.25. Devourer: the trough is no longer cold. Critic: the specific "no couple page-time in Ch.22–25" complaint no longer has an object — but the apart-a-fifth *architecture* is unchanged (warmed, not restructured), and this was the last available page-time lever.
+
+**(b) Earned/on-voice or bolted-on?**
+EARNED and on-voice. Desire rises "the way the gift came up" (bound to her blood-magyk signature, not a generic swoon); it uses the book's cold-motif ("so tired of being cold, in every way there was to be cold") and its arithmetic/sum register; the diction is fresh against the Ch.21 open (his memorized cold-inventory vs. her reached-for heat-inventory — a POV inversion). It grows from the chapter's own turn (she chose to be seen; now her body chooses east) and is the stated engine of the eastward decision — motivation, not ornament. Not bolted-on.
+
+**(c) Non-explicit, bittersweet arc intact?**
+YES. Remembered heat and stated want, no act; the two-explicit canon (Ch.18 + Ch.26) holds. The leads remain apart and hunted; the throne/mews bittersweet close is untouched. The beat sharpens the longing that makes the bittersweet land — it does not soften the cost.
+
+**(d) Remaining couple-page-time ask, or is the pitch now fully defensible?**
+No remaining ask that is worth taking. Devourer: pitch fully defensible; the only residue is the accepted-as-book not-same-life ending. Critic: pitch fully defensible on the page across the whole arc; the couple-page-time lever is now SPENT — any further move is a third explicit scene or a structural rebuild, neither warranted. Remaining residue is architecture-taste, not a defect.
+
+### Scores at a glance (R5 → R6)
+| Persona | R5 | **R6** | Δ | R6 one-line verdict |
+|---|---|---|---|---|
+| The Devourer (superfan) | 9.0 | **9.5** | **+0.5** | Buy — present-tense want dropped into the cold middle, in her voice, driving the reunion turn. |
+| The Critic (dev editor/agent) | 8.0 | **8.5** | **+0.5** | Yes, submittable — the Ch.22–25 cold-stretch complaint is closed, on-voice and load-bearing; last page-time lever spent. |
+
+**Pitch verdict:** the adult-romantasy pitch is now **fully defensible on the page** for both personas. The couple carries present-tense intimacy across the whole arc — meeting, road, first scene, the separation trough, reunion, and a possessive claim close — without breaking the two-explicit canon or the intentional bittersweet ending. The last couple-page-time lever is spent; everything below it is architecture-taste and optional splinter-polish (the Casual's "a year" ×3 and one whale-iron anchor), neither blocking.
+
+**BIAS CHECK (Round 6):** produced by the same system that generated the prose. The Devourer's 9.5 reflects genre-reader enthusiasm for an on-target beat; the Critic's 8.5 "as pitched" is the conservative anchor and the safer basis for a submission decision. Both deltas (+0.5) are within the anti-inflation single-cycle cap and are supported by the specific cited change; confirm with external human romantasy beta readers before treating the 9.5 as settled.
