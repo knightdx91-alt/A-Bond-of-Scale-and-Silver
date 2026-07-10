@@ -60,9 +60,22 @@ and KDP will accept a standard PDF and convert — but for a guaranteed prefligh
 `ghostscript` install is attempted by the SessionStart hook; reportlab/pillow too. If `gs`
 isn't present the conversion is a one-step manual finish on a machine that has it.
 
-## 5. Cover / wrap (the cover learnings)
-See `reference/saeren-cover-brief.md` (design brief format) and `reference/saeren-back-cover.md`
-(back-cover copy format) as **templates** — their *content* is Saeren's, not this book's.
+## 5. Cover / wrap — WRAP BUILT 2026-07-10
+Front cover is decided (`delivery/cover/front-cover-post-peleos.png`). The full **wrap** (back +
+spine + front on one full-bleed canvas) is built by `compose_wrap.py` →
+`delivery/production/A-Bond-of-Scale-and-Silver-wrap-6x9.pdf` (RGB proof) +
+`…-wrap-6x9-X1a.pdf` (PDF/X-1a CMYK, verified CMYK-only + GTS_PDFX intent, fonts embedded).
+- **Spine = 448 pp × 0.0025"/pp = 1.120"** for **IngramSpark cream 50#** (the fiction default;
+  Saeren's exact stock was never recorded, so this matches the "same as Saeren" intent). If the
+  stock is actually white 50#, set `PPI_FACTOR = 0.002252` in `compose_wrap.py` (→ ~1.009" spine)
+  and rebuild.
+- Full canvas **13.370" × 9.250"** (2·6 + 1.12 spine + 0.25 bleed). Front art's ~100px white
+  bottom strip is auto-cropped so the dark art bleeds; back carries the `editorial/back-cover.md`
+  copy + comps + an ISBN-barcode quiet-zone box; spine has title + author.
+- Before ordering: confirm the exact paper stock, drop the printer's real barcode into the box,
+  and re-verify the spine against IngramSpark's spine calculator for the final page count.
+
+Legacy `reference/saeren-cover-brief.md` / `saeren-back-cover.md` are Saeren's — format templates only.
 Wrap rules that bit us / to respect:
 - A **full wrap** = back + spine + front on one canvas, at **full bleed (0.125" all round)** —
   different from the no-bleed interior. Don't reuse interior margins for the cover.
@@ -87,10 +100,14 @@ paginates from 1 via a dynamic `front_pages` offset):
 Adding front matter moved the page count 444 → **448 pp** (recompute the spine from 448).
 Back-cover copy is in `editorial/back-cover.md` (correct for this book — Amelia/Korvan, standalone).
 
-## 7. EPUB
-Reflowable EPUB (Kindle/Apple/Kobo + IngramSpark ebook channel) is a **separate build** from
-the print PDF — not covered by `build_pdf.py`. Generate from `full-manuscript.md` when a target
-is chosen.
+## 7. EPUB — DONE 2026-07-10
+Reflowable **EPUB 3** built by `build_epub.py` (pure-Python, no external deps) from
+`full-manuscript.md` → `delivery/production/A-Bond-of-Scale-and-Silver.epub`. Includes the
+cover image, EPUB3 `nav` + NCX fallback, title/copyright/dedication front matter, and one
+XHTML doc per chapter (scene breaks as centered dividers). Validated: mimetype-first & stored,
+all XML well-formed, every manifest/spine/nav/css/image reference resolves. Kindle/Apple/Kobo +
+IngramSpark ebook channel compatible. Rebuild after manuscript edits; `DEDICATION` mirrors the
+print build.
 
 ## Quick status
 - [x] Adapt + run `assemble_manuscript.py` → `manuscript/full-manuscript.md` (29 ch). **DONE 2026-07-10**
@@ -111,7 +128,14 @@ is chosen.
       (0.75") — mirrored margins optional. Still open: spine width from **448 pp** × chosen paper
       stock → design wrap at full bleed (§5).
 - [x] **Front matter added (§6) 2026-07-10** — half-title, title page (title/"a novel"/Post Peleos),
-      copyright page, dedication (placeholder line pending the author's final text). Both PDFs rebuilt
-      + re-verified (448 pp, fonts embedded, X-1a CMYK/GTS_PDFX). Back-cover copy: `editorial/back-cover.md`.
-- [ ] **Dedication text** — swap the author's final line into `DEDICATION` in `build_pdf.py`, rebuild.
-- [ ] Design the wrap at full bleed with the 448 pp spine (§5); EPUB (§7) when a channel is chosen.
+      copyright page, dedication. **Dedication set** to the author's final line ("For all the ones that
+      were told to hide themselves from the world. We see you."). Both PDFs rebuilt + re-verified
+      (448 pp, fonts embedded, X-1a CMYK/GTS_PDFX). Back-cover copy: `editorial/back-cover.md`.
+- [x] **Full wrap built (§5) 2026-07-10** — `compose_wrap.py` → `…-wrap-6x9.pdf` + `…-wrap-6x9-X1a.pdf`
+      (CMYK/GTS_PDFX, fonts embedded). Spine **1.120"** @ 448 pp cream 50#; canvas 13.370×9.250".
+- [x] **EPUB built (§7) 2026-07-10** — `build_epub.py` → `A-Bond-of-Scale-and-Silver.epub` (EPUB 3,
+      validated structurally; cover + nav + front matter + 29 chapters).
+- [ ] **Before ordering print:** confirm the paper stock (cream vs white → spine factor), assign
+      print/ebook ISBNs, drop the real barcode into the wrap's quiet-zone box, and re-check the spine
+      on IngramSpark's calculator. For a strict CMYK proof, swap the generic `default_cmyk.icc` for the
+      printer's target ICC (US Web Coated SWOP / IngramSpark-specified) and re-run the X-1a conversions.

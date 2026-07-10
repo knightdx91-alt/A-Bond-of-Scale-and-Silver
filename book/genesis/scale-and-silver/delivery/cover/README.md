@@ -24,9 +24,13 @@ python3 concept-A_make_cover.py            # writes cover.html
   --force-device-scale-factor=1 --window-size=1600,2560 --screenshot=out.png "file://$PWD/cover.html"
 ```
 
-## Still open (per cover-brief §production)
-- **Author name** — needed before finalizing type.
-- **Print wrap** — spine width from **444 pp** × chosen paper stock, then lay out back + spine + front
-  on one full-bleed (0.125") canvas at 6×9. Back-cover copy is ready in `editorial/back-cover.md`.
-- **CMYK** — convert the final print cover to PDF/X-1a (same pipeline as the interior).
-- **Ebook** — 2560×1600 px RGB per KDP (this mockup is already at that ratio).
+## Status (2026-07-10)
+- **Author name** — set: **Post Peleos** (on the final front `front-cover-post-peleos.png`).
+- **Print wrap** — ✅ BUILT. `production/compose_wrap.py` lays out back + spine + front on one
+  full-bleed (0.125") 6×9 canvas → `delivery/production/A-Bond-of-Scale-and-Silver-wrap-6x9.pdf`
+  (+ `-X1a.pdf` CMYK). Spine **1.120"** @ 448 pp cream 50# (change `PPI_FACTOR` for white stock).
+  Back copy from `editorial/back-cover.md`; ISBN-barcode quiet-zone box included.
+- **CMYK** — ✅ wrap + interior both converted to PDF/X-1a (CMYK-only, GTS_PDFX intent).
+- **Ebook** — ✅ the front cover is embedded in the EPUB (`A-Bond-of-Scale-and-Silver.epub`).
+- **Before print order** — confirm paper stock, assign ISBNs, drop the printer's real barcode into
+  the wrap box, re-verify spine on IngramSpark's calculator (see PRODUCTION-PLAYBOOK §5).
