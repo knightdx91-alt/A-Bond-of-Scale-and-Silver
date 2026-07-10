@@ -83,8 +83,20 @@ the print PDF — not covered by `build_pdf.py`. Generate from `full-manuscript.
 is chosen.
 
 ## Quick status
-- [ ] Adapt + run `assemble_manuscript.py` → `manuscript/full-manuscript.md` (29 ch).
-- [ ] Adapt + run `build_pdf.py` → interior PDF; **verify fonts embedded** (§3).
-- [ ] Convert to PDF/X-1a CMYK (§4) when `gs`/Acrobat available.
-- [ ] Get real page count → design wrap at full bleed with correct spine (§5).
-- [ ] Front/back matter (§6); EPUB (§7).
+- [x] Adapt + run `assemble_manuscript.py` → `manuscript/full-manuscript.md` (29 ch). **DONE 2026-07-10**
+      — adapted script at `production/assemble_manuscript.py` (em-dash headings, WORD numerals to 29,
+      scene breaks normalized to `* * *`). Assembled ~154,016 words, 77 scene breaks.
+- [x] Adapt + run `build_pdf.py` → interior PDF; **verify fonts embedded** (§3). **DONE 2026-07-10**
+      — adapted script at `production/build_pdf.py` (hyphenated CHAPTER regex, title page, output name).
+      Output `delivery/production/A-Bond-of-Scale-and-Silver-6x9-interior.pdf`, **444 pp**, 6×9.
+      Font check PASS: only subsetted IBM Plex Serif (Reg/It/Bd), 3 embedded programs, **zero Helvetica**.
+- [x] Convert to PDF/X-1a CMYK (§4). **DONE 2026-07-10** — `production/PDFX_def.ps` (points at
+      `/usr/share/color/icc/ghostscript/default_cmyk.icc`); output
+      `delivery/production/A-Bond-of-Scale-and-Silver-6x9-interior-X1a.pdf`. Verified: OutputIntent
+      present, GTS_PDFX marker, DeviceCMYK (0 DeviceRGB), fonts still embedded, 444 pp.
+      NOTE: `default_cmyk.icc` is a generic profile; for a strict IngramSpark proof swap in the
+      printer's target profile (US Web Coated SWOP / the IngramSpark-specified ICC) and re-run.
+- [x] Real page count = **444 pp** @ 6×9, 11/15.5 Plex, 0.75" margins. At 444 pp the symmetric
+      0.75" inside margin meets IngramSpark's 401–600 pp gutter (0.75") — mirrored margins optional.
+      Still open: spine width from 444 pp × chosen paper stock → design wrap at full bleed (§5).
+- [ ] Front/back matter (§6); EPUB (§7).  ← still open (editorial package drafted under `editorial/`).
