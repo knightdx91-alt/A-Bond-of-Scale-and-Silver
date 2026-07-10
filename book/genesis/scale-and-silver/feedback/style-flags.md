@@ -47,6 +47,16 @@ the 5 above were the ones the eval judged too-verbatim and were recast/thinned):
   opposite work. Keep as intentional resonance; the only other "came to nothing" hit (Ch.10) is a
   different construction. (logged 2026-07-09)
 
+## Sanctioned plant/payoff echoes (do NOT flatten in de-tic / n-gram passes)
+- **Ch.20 → Ch.28 "the power would be equal / was equal; she would not / was not; not yet."**
+  Ch.20 ¶91 (child-save reflection) plants the skill-gap: "The power would be equal to such a wound
+  and she would not, not yet." Ch.28 ¶151 (Selwyn dies in the ford) pays it off: "The power was
+  equal to it. She was not. Not yet." This is the book's best-engineered echo — it converts
+  Selwyn's death from a plot-timed event into a planted inevitability. DELIBERATE; keep both.
+  (logged 2026-07-10, per Floor re-eval Fix #5.)
+- **Ch.29 "twenty-two days" ×2 (¶3 opener + ¶25 crowning)** — the aftermath's time-frame bookend.
+  Sanctioned; NOT a tic to thin. (logged 2026-07-10, per Floor re-eval Fix #5.)
+
 ## Watch / kill list (unconscious tics to avoid)
 _(none yet)_
 

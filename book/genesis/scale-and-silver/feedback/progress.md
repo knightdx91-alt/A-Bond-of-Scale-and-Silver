@@ -45,7 +45,8 @@ show-tell / voice-wear). Detailed log: `feedback/line-edit-findings-2026-07-10.m
 Re-ran the beta panel after the fixes above → `evaluations/review/beta-reader-panel-round2.md`
 (scores held/rose: Hostile 5→6, Casual 6.5→7, Critic 6→6.5, Devourer 8, Devoted 8.5; feeding RESOLVED,
 tic IMPROVED, timeline IMPROVED). Then cleared the remaining actionable items:
-- **Ch.29 time over-referencing** — DONE. "twenty-two days" thinned to one anchor (¶25 grave/crown);
+- **Ch.29 time over-referencing** — DONE. "twenty-two days" thinned to TWO deliberate anchors (¶3
+  opener + ¶25 grave/crown — the bookending frame, sanctioned per Floor re-eval Fix #5, NOT one);
   ¶73 → "at the Elver", ¶83 → "your mother barely in the ground", ¶99 "three weeks" clash removed.
 - **Ch.27 stray "a year"** (Selwyn) — DONE → "said all along". (Reviewed the other ~10 "a year" hits:
   the rest are life/hyperbole idioms — "worth a year's wages", "in a year of being reasonable" — left
