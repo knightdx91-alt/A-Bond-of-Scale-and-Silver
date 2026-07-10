@@ -41,21 +41,32 @@ show-tell / voice-wear). Detailed log: `feedback/line-edit-findings-2026-07-10.m
 7. **Production knowledge migrated** — `production/PRODUCTION-PLAYBOOK.md` + `production/reference/`
    (PDF interior specs, the font-embed + RGB→PDF/X-1a CMYK fixes, wrap/cover learnings, build tools).
 
-### 2. ▶ NEXT — open items (pick up here)
-**Quick, in-scope, PROPOSED but awaiting author "go" (small edits, ~10 min):**
-- **Ch.29 time over-referencing** — "twenty-two days" appears 3×; thin to ONE anchor (the
-  coronation/grave one), soften the others to "since the Elver", and reconcile the "three weeks"
-  (healer's cot) so it doesn't restate the same span in a different unit.
-- **Ch.27 stray "a year"** — "Selwyn had spent a year saying he would go where Korvan went" clashes
-  with the compressed weeks scale; change to the weeks scale.
+### 2. Beta round-2 + follow-up fixes — DONE (2026-07-10, later in session)
+Re-ran the beta panel after the fixes above → `evaluations/review/beta-reader-panel-round2.md`
+(scores held/rose: Hostile 5→6, Casual 6.5→7, Critic 6→6.5, Devourer 8, Devoted 8.5; feeding RESOLVED,
+tic IMPROVED, timeline IMPROVED). Then cleared the remaining actionable items:
+- **Ch.29 time over-referencing** — DONE. "twenty-two days" thinned to one anchor (¶25 grave/crown);
+  ¶73 → "at the Elver", ¶83 → "your mother barely in the ground", ¶99 "three weeks" clash removed.
+- **Ch.27 stray "a year"** (Selwyn) — DONE → "said all along". (Reviewed the other ~10 "a year" hits:
+  the rest are life/hyperbole idioms — "worth a year's wages", "in a year of being reasonable" — left
+  intact; swapping them would flatten voice, same over-correction lesson as "weeks".)
+- **Ch.17 tighten** — DONE (one redundant "banner / not a who" interiority reiteration trimmed; the
+  chapter is dense-but-load-bearing, not flabby — did not gut the council scene).
+- **Beta #4 — Selwyn — AUTHOR CHOSE: let the death stand.** DONE. Ch.28 save reworked so the wound is
+  "too open to hold" (she reaches him and cannot) — this both honors the choice AND embodies the
+  power-limit the panel wanted seeded (no convenient stranger-save; the arithmetic is now total loss).
+  Ch.29 ¶65 reworked from "mending" to a death report + a ruling beat. **Selwyn is now DEAD** →
+  Book-Two betrothal seed (MINOR-003) is VOID (could become a Book-2 grief thread instead).
+- **Beta #5 — POSITIONING — AUTHOR CHOSE: keep romantasy + add couple page-time.** DONE. Added a new
+  mid-book togetherness beat at the Ch.19 shieling pre-dawn (Korvan POV, ~330w, NON-explicit to respect
+  the two-explicit-scenes canon; deepens the bond, seeds the separation ache). Comps stay ADULT
+  romantasy / Anne Bishop (NOT McKillip/Priory/YA).
 
-**Authorial calls (need the author's steer — do NOT just execute):**
-- **Beta #4 — Selwyn cost / power-limit.** Ch.28 reads plot-timed (Selwyn conveniently survives; the
-  "too open to save" limit isn't seeded earlier). Either let a death stand, or seed the limit earlier.
-- **Beta #5 — POSITIONING.** Romantasy vs literary epic fantasy. If keeping the romantasy pitch, pull
-  couple page-time forward (a beat between Ch.18 and Ch.26; a togetherness beat at the close).
-  NOTE: comps must be ADULT romantasy / Anne Bishop — NOT the McKillip/Priory/YA framing an external
-  reviewer suggested (that would mis-shelf the book).
+### 3. ▶ NEXT — open items (pick up here)
+**Recommended verification (net-new/changed canon this session — a Floor re-eval would confirm):**
+- Optional `book-evaluator` Genesis-Floor re-eval on **Ch.19** (new couple beat), **Ch.28** and
+  **Ch.29** (Selwyn death rework). All pass mechanical gates + are on-voice; scores likely hold ≥8.5
+  but haven't been formally re-scored. Consider a round-3 beta panel after any further changes.
 
 **Still-open production track (non-blocking):**
 - Adapt + run `production/reference/assemble_manuscript.py` (extend to 29 ch, this title) →

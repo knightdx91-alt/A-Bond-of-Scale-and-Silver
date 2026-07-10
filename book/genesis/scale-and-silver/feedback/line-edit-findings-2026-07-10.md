@@ -171,3 +171,17 @@ Author decisions: #2 = "account for it (recalibrate)"; #3 = "compress to weeks."
   animals (hare/ewe/gull), at cost, "the first thing she'd kept whole by her own will."
 Gates clean (grammar/metaphor/voice-wear); avoided the retired phrase "never once"; 152,067 words.
 STILL OPEN (authorial): #4 Selwyn cost / power-limit seeding; #5 positioning / couple page-time.
+
+## 10. Beta round-2 + follow-up fixes (2026-07-10, later)
+Re-ran beta panel post-revision → `evaluations/review/beta-reader-panel-round2.md` (scores held/rose;
+feeding RESOLVED, tic IMPROVED, timeline IMPROVED). Then:
+- Ch.29 time over-referencing thinned ("twenty-two days" → one anchor; "three weeks" clash removed).
+- Ch.27 stray "a year" (Selwyn) → "said all along". Other ~10 "a year" hits reviewed = life/hyperbole
+  idioms, left intact (swapping would flatten voice).
+- Ch.17 lightly tightened (one redundant interiority reiteration; chapter is load-bearing, not gutted).
+- **Beta #4 (author: let Selwyn die):** Ch.28 save → "wound too open to hold" (embodies the power-limit,
+  removes the plot-timed save); Ch.29 → death report + ruling beat. Selwyn DEAD; Book-2 betrothal seed void.
+- **Beta #5 (author: keep romantasy + add couple page-time):** new mid-book togetherness beat at Ch.19
+  shieling pre-dawn (~330w, non-explicit per the two-explicit-scenes canon). Book now 152,584 words.
+- "did the sum" deliberately NOT thinned further (signposted characterization + Ch.28 payoff).
+OPEN: optional Floor re-eval on Ch.19/28/29 (changed canon); production track; book-packager.
