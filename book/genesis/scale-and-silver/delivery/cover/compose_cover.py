@@ -15,6 +15,14 @@ html = f'''<!doctype html><html><head><meta charset="utf-8"><style>
 html,body{{width:1600px;height:2263px;}}
 .cover{{position:relative;width:1600px;height:2263px;overflow:hidden;
   background:url(data:image/png;base64,{art}) center/cover no-repeat;font-family:'Plex',serif;}}
+/* half-blood moon: red tint clipped to the moon disc, right half; multiply reddens only the bright moon */
+.moonclip{{position:absolute;left:245px;top:-92px;width:1120px;height:1120px;border-radius:50%;
+  overflow:hidden;pointer-events:none;}}
+.moonclip .rh{{position:absolute;top:0;right:0;width:50%;height:100%;mix-blend-mode:multiply;
+  background:linear-gradient(90deg,rgba(120,18,28,0) 0%,rgba(150,24,36,.5) 55%,rgba(122,16,26,.74) 100%);}}
+.moonclip .seam{{position:absolute;top:6%;left:50%;width:3px;height:88%;transform:translateX(-50%);
+  background:linear-gradient(180deg,rgba(150,30,42,0),rgba(170,40,52,.35) 30%,rgba(170,40,52,.35) 70%,rgba(150,30,42,0));
+  mix-blend-mode:screen;}}
 /* scrim so the lower-third type reads over the figures */
 .scrim{{position:absolute;left:0;right:0;bottom:0;height:1000px;
   background:linear-gradient(180deg,rgba(4,6,13,0) 0%,rgba(4,6,13,.35) 34%,rgba(4,6,13,.72) 62%,rgba(4,6,13,.9) 100%);}}
@@ -42,6 +50,7 @@ html,body{{width:1600px;height:2263px;}}
   filter:drop-shadow(0 3px 14px rgba(0,0,0,.95));}}
 </style></head><body>
 <div class="cover">
+  <div class="moonclip"><div class="rh"></div><div class="seam"></div></div>
   <div class="gemglow"></div>
   <div class="scrim"></div>
   <div class="redglow"></div>
