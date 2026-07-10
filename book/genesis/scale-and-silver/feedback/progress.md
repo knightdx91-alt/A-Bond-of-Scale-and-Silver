@@ -5,7 +5,26 @@
 
 ---
 
-## ▶ RESUME HERE — post-completion revision session (2026-07-10)
+## ▶ RESUME HERE — SURGICAL PACING PASS (2026-07-10, in progress)
+
+**LIVE TASK: execute the surgical pacing pass — plan is `feedback/revision-plan-grok-2026-07-10.md`.**
+- **Trigger:** external **Grok** read (first independent market read): strong prose/character/world,
+  but **overwritten + slow front act, motif repetition, Della/Maren blur, gift needs harder cost.**
+  Aligns with our own known weakness (early-act pacing; the scene-end tic we already swept).
+- **Author decisions (2026-07-10):** (1) **STAY adult romantasy** (do NOT reposition to literary
+  fantasy, though Grok + our beta Critic both read it that way); (2) do the **SURGICAL pass, NOT the
+  ruthless 20–30% cut** (a 30% cut = a different book; 150k is in-band for romantasy).
+- **Target:** accelerate **Ch.1–9**, thin over-hammered motifs (per-chapter caps), sharpen
+  **Della vs Maren**, harden the **gift's cost/limits**. Landing ~135–145k, same story + voice.
+- **Execution order:** Ch.1 → Ch.9 first (front act = highest ROI), per-chapter discipline
+  (read → cut/accelerate → `check_chapter.sh` clean → no new n-gram → commit). Word floor may be
+  intentionally breached by trimming here — log, don't pad. Keep the 2 explicit scenes + 3 couple
+  beats intact. Then re-measure and decide on a lighter Ch.10–17 thinning; re-run beta + external read.
+- **Progress checklist lives in the plan doc's Status section.**
+
+---
+
+## (prior) post-completion revision session (2026-07-10)
 
 ### 0. Where the book LIVES now (important)
 - **Source of truth = the standalone repo `knightdx91-alt/A-Bond-of-Scale-and-Silver`, on `main`.**
