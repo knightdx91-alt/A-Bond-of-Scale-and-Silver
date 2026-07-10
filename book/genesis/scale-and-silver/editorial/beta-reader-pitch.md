@@ -47,3 +47,22 @@ being finally seen is going to cost Amelia everything she loves.
 **If you like:** hidden royalty, one-of-a-kind shifters, two outsiders who choose each other, a
 villain who can't be bought, and a heroine who is dangerous rather than rescued — I'd love your
 eyes on it.
+
+---
+
+## DM-sized versions (for recruiting)
+
+**Short (~5 sentences):**
+
+> Want to beta-read an adult romantasy? *A Bond of Scale and Silver* (~154k, standalone): Amelia
+> is the first vampire born — not made — in a thousand years, her mother the Queen's caged secret,
+> and all she wants is to be seen. When a grief-poisoned schemer exposes her to start a war, she
+> runs — straight into Korvan, an outcast whose first shift makes him a dragon out of dead legend,
+> the one thing hunted harder than she is. Two exiles, one brutal road, a bond they choose instead
+> of inherit. Bishop/Broadbent vibes, slow-burn, spicy back half, bittersweet ending. Interested?
+
+**One-liner:**
+
+> Beta readers wanted — *A Bond of Scale and Silver*: the first vampire born in a thousand years
+> and a chief's son who shifts into a dragon, both hunted, thrown onto one road. Adult romantasy,
+> slow-burn, spicy, standalone (~154k). Want in?
