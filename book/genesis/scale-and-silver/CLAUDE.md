@@ -6,8 +6,9 @@ Per-book playbook. A fresh Claude Code session should read this first, then `STA
 > **REPO + BRANCH (2026-07-10):** This book's home is the standalone repo
 > `knightdx91-alt/A-Bond-of-Scale-and-Silver`; work on **`main` only** (see root `CLAUDE.md` branch
 > policy). The copy in `The-Saeren-Chronicles` is FROZEN. **`feedback/progress.md` → "▶ RESUME HERE"
-> is the live pick-up point** for the post-completion revision session (line edit, beta panel, de-tic,
-> feeding + timeline fixes done; Ch.29/Ch.27 time-thinning + beta #4/#5 + production track still open).
+> is the live pick-up point.** Book COMPLETE (29 ch) and **PRODUCTION + PACKAGING COMPLETE** (interior
+> PDF 448 pp + X-1a, front matter + dedication, cover wrap, EPUB, editorial package — all on `main`).
+> Only pre-print-order author/asset decisions remain (paper stock, ISBNs/barcode, printer ICC).
 
 ## What this is
 A **genesis-from-idea** project: build a NEW ~150k-word **ADULT romantasy** from the author's
@@ -208,6 +209,16 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
   Korvan carries the garden meeting ALONE. Maren confirmed. See STATE.yaml for the 2026-07-08 rework.
 
 ## Status (update as you go)
+- **2026-07-10 — ✅ PRODUCTION + PACKAGING COMPLETE (all on `main`).** Cover decided
+  (`delivery/cover/front-cover-post-peleos.png` + `…-clean.png`). Interior assembled + built:
+  `A-Bond-of-Scale-and-Silver-6x9-interior.pdf` (**448 pp**) + PDF/X-1a CMYK, fonts embedded. Front
+  matter added (half-title, title page w/ **Post Peleos**, copyright, **dedication**: "For all the ones
+  that were told to hide themselves from the world. We see you."). Full cover **wrap** built (spine
+  1.120" @ 448 pp cream 50#) + X-1a. **EPUB 3** built + validated. Editorial package incl.
+  `beta-reader-pitch.md`. Standalone; no series line; no in-interior heat advisory. Build scripts:
+  `production/{build_pdf,build_epub,compose_wrap,assemble_manuscript}.py`. Remaining = pre-print-order
+  author/asset calls only (paper stock → spine factor; ISBNs + real barcode; printer ICC). See
+  `production/PRODUCTION-PLAYBOOK.md` + `feedback/progress.md`.
 - **2026-07-10 — ✅ BOOK ONE COMPLETE + FULLY AUDITED. ALL 29 of 29 chapters FINALIZED (Ch.1–29,
   every Genesis Floor ≥ 8.5). 152,116 words** (clears the 140k floor and the 150k target). Climax +
   resolution done: Ch.27 'Outlasted (I)' [K] (avg 8.86), Ch.28 'Outlasted (II)' [A] (avg 8.71) —

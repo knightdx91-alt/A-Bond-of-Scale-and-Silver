@@ -3,8 +3,20 @@
 #   only (Saeren-repo copy FROZEN). LIVE RESUME POINT = feedback/progress.md "▶ RESUME HERE".
 #   Done: line edit + Ch.23->24 hinge + beta panel R1&R2 + de-tic + feeding(#2) + timeline(#3) +
 #   Ch.29/Ch.27 time-thin + Ch.17 tighten + #4 SELWYN DIES (Ch.28/29 reworked) + #5 couple page-time
-#   (new non-explicit Ch.19 beat). Word count now ~152,584. Open: optional Floor re-eval Ch.19/28/29;
-#   production track; book-packager. Per-chapter Floor scores below predate these edits.
+#   (new non-explicit Ch.19 beat). Word count now ~152,584. Per-chapter Floor scores below predate these edits.
+# ▶ 2026-07-10 PRODUCTION + PACKAGING COMPLETE (all on MAIN):
+#   COVER decided (delivery/cover/front-cover-post-peleos.png; +...-clean.png white-strip-cropped).
+#   INTERIOR: full-manuscript.md assembled (29 ch) -> build_pdf.py -> 6x9 interior PDF (448 pp, post
+#   front-matter) + PDF/X-1a CMYK. FRONT MATTER added: half-title, title page (title/"a novel"/Post
+#   Peleos), copyright, DEDICATION ("For all the ones that were told to hide themselves from the world.
+#   We see you."). WRAP built (compose_wrap.py -> wrap-6x9.pdf + X1a; spine 1.120" @ 448pp cream 50#).
+#   EPUB 3 built (build_epub.py -> A-Bond-of-Scale-and-Silver.epub, validated). Editorial package under
+#   editorial/ (logline, synopsis, back-cover, comps, query, + beta-reader-pitch.md w/ DM versions).
+#   All build scripts committed. See production/PRODUCTION-PLAYBOOK.md Quick status for the checklist.
+#   OPEN (pre-print-order, author/asset decisions only): confirm paper stock (cream vs white -> spine
+#   factor); assign print/ebook ISBNs + drop real barcode into the wrap's quiet-zone box; for a strict
+#   proof swap the generic CMYK ICC for the printer's target profile. Optional: Floor re-eval Ch.19/28/29;
+#   KDP 2560x1600 ebook cover; one-command rebuild-all script.
 project:
   title: "A Bond of Scale and Silver"   # author-chosen 2026-07-08 (collision-checked; was "Treaty of Blood and Ash", dropped for clash w/ Armentrout's From Blood and Ash). "Scale"=Korvan the dragon; "Silver"=Amelia (silver hair + the silver full moon). "Rosalia" = the QUEEN's name (Amelia's mother), NOT the world/series/book name.
   genre: "Fantasy"

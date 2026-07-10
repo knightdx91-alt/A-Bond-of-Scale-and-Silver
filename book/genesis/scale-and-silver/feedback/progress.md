@@ -1,11 +1,47 @@
 # Progress — A Bond of Scale and Silver
 
-> Book slug: `scale-and-silver` (was `rosalia`). Last updated 2026-07-10 (revision session).
+> Book slug: `scale-and-silver` (was `rosalia`). Last updated 2026-07-10 (production/packaging session).
 > Read `STATE.yaml` first, then this file.
 
 ---
 
-## ▶ RESUME HERE — SURGICAL PACING PASS (front act DONE 2026-07-10)
+## ▶ RESUME HERE — PRODUCTION + PACKAGING COMPLETE (2026-07-10)
+
+The book is complete (29 ch, all Floor ≥ 8.5, ~152.9k assembled words) AND the full production +
+packaging track is DONE, all on `main`. Nothing is blocking; what remains are author/asset decisions
+before a print order.
+
+**Delivered this session (all committed + pushed to `main`):**
+- **Cover** — decided front `delivery/cover/front-cover-post-peleos.png` (+ `…-clean.png`, white
+  bottom-strip cropped, 1600×2176, the canonical front/ebook asset).
+- **Interior** — `manuscript/full-manuscript.md` reassembled (29 ch) → `production/build_pdf.py` →
+  `delivery/production/A-Bond-of-Scale-and-Silver-6x9-interior.pdf` (**448 pp**) + PDF/X-1a CMYK.
+  Fonts embedded (Plex subsets only), body paginates from 1.
+- **Front matter** — half-title, title page (title / "a novel" / **Post Peleos**), copyright page,
+  and the **dedication**: *"For all the ones that were told to hide themselves from the world. We see
+  you."* Author decisions applied: standalone (no series line), no in-interior heat advisory.
+- **Cover wrap** — `production/compose_wrap.py` → `…-wrap-6x9.pdf` (+ X-1a CMYK). Spine **1.120"** @
+  448 pp cream 50# (`PPI_FACTOR` param → white stock = 0.002252). Back = `editorial/back-cover.md`
+  copy + comps + ISBN-barcode quiet-zone box; spine = title + author.
+- **EPUB** — `production/build_epub.py` → `delivery/production/A-Bond-of-Scale-and-Silver.epub`
+  (EPUB 3, structurally validated: mimetype-first, well-formed XML, all links resolve, cover + nav +
+  front matter + 29 chapters).
+- **Editorial** — `editorial/beta-reader-pitch.md` added (spoiler-light recruiting pitch + short and
+  one-liner DM versions). Existing `logline`/`synopsis`/`back-cover`/`comps`/`query` unchanged.
+
+**OPEN before a print order (author/asset decisions only — not code):**
+1. Confirm **paper stock** (cream vs white 50#) → sets the spine factor; rebuild wrap if white.
+2. Assign **print + ebook ISBNs**; drop the printer's **real barcode** into the wrap's quiet-zone box.
+3. For a strict CMYK proof, swap the generic `default_cmyk.icc` for the printer's target ICC
+   (US Web Coated SWOP / IngramSpark-specified) and re-run the X-1a conversions.
+4. Optional: KDP 2560×1600 ebook cover; a one-command "rebuild-all" script; Floor re-eval Ch.19/28/29.
+
+Full production checklist: `production/PRODUCTION-PLAYBOOK.md` (Quick status). Older revision-pass
+resume notes are preserved below for history.
+
+---
+
+## (history) ▶ SURGICAL PACING PASS (front act DONE 2026-07-10)
 
 **FRONT-ACT PASS COMPLETE (Ch.1–9).** Trims landed in Ch.1–6 (each committed, gate-clean):
 Ch.1 −91, Ch.2 −29, Ch.3 −51, Ch.4 −28, Ch.5 −149, Ch.6 −48 — all removing genuine restatement/
