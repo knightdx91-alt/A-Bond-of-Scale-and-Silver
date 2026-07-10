@@ -216,3 +216,23 @@ inanimate "weight"). Findings:
   as self-built discipline). No change.
 Net: canon now coheres — she can heal/hold blood (Ch.20 child), her power outstrips the law, and
 Selwyn dies because a wide/fast wound outstrips her UNTRAINED craft, not her power.
+
+## 13. Beta round-3 follow-ups (2026-07-10)
+Round-3 panel (evaluations/review/beta-reader-panel-round3.md): scores rose/held again (Hostile 6→7,
+Critic 6.5→7, Devourer 8→8.5); Selwyn/power-limit gap RESOLVED and dropped out of the problem tier.
+Genesis Floor re-eval caught + fixed a Ch.28 below-floor bug (Selwyn-death not propagated to ¶167/169/171
+— now corrected; Ch.28 back to Floor 8.5). Then, from the R3 fix list:
+- **#3 skill-gap seam — DONE.** Seeded in Ch.20 (¶91): even in the ease of the child-save she feels the
+  edge — the tear was small/slow enough for an unschooled hand; a faster/wider wound would run out before
+  she had the craft; "the power would be equal to such a wound and she would not, not yet." Sets up Ch.28.
+- **#5 Maren's own stroke — DONE (as continuity fix).** Maren ALREADY has a distinct death (Ch.28 ¶83–91,
+  the button-count, forbidding the save). Fixed the ¶155 line I'd introduced that wrongly lumped her with
+  the Queen as "too fast" — now three distinct deaths: Queen (iron, too fast), Maren (had time, FORBADE the
+  reach), Selwyn (tried, couldn't — untrained craft). Tightens the power-canon too.
+- **#4 "a year" mop — NO CHANGE NEEDED.** Residuals are the 2 deliberate "like a year" similes + one true
+  life-cadence idiom ("one word in a year"). All intentional.
+- **#1 back-half de-tic — partial.** Varied the new Ch.19 beat's "did the sum". Left the rest of "did the
+  sum" (deliberate signature + Ch.28 counting-fails payoff); scene-end-thesis thinning is at diminishing
+  returns per R3 ("reduced again").
+OPEN (authorial): #2 POSITIONING call (romantasy vs epic fantasy; one more couple beat optional — Ch.19
+proved the lever). Book 153,026 words; all gates green.
