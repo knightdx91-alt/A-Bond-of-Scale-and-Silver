@@ -37,7 +37,7 @@ YEAR = "2026"
 
 # --- Dedication --------------------------------------------------------------
 # Replace with the author's final line. Set to "" to omit the dedication page.
-DEDICATION = "For those who were told they were the wrong shape for the room they were handed."
+DEDICATION = "For all the ones that were told to hide themselves from the world. We see you."
 
 FONT_DIR = "/mnt/skills/examples/canvas-design/canvas-fonts"
 pdfmetrics.registerFont(TTFont("PlexSerif", f"{FONT_DIR}/IBMPlexSerif-Regular.ttf"))
