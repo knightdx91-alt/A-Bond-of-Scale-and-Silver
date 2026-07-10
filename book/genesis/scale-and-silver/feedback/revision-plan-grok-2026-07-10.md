@@ -101,5 +101,12 @@ motif density book-wide, then decide if Ch.10–17 need a lighter thinning pass.
       'Strength stops. Only craft catches, and craft is only time'). Directly pays off the Ch.28
       Selwyn total-loss ('strength to command the blood, not yet the craft to catch it in time').
       Worded to avoid a verbatim cross-chapter n-gram (kept the conceptual echo, not the phrase).
-- [ ] (deferred) Re-measure + decide on mid-book (Ch.10–17) thinning
+- [x] Mid-book (Ch.10–17) thinning DONE (author-requested). Light surgical cuts of genuine
+      restatement in Ch.10 (−57, doubled 'instinct already decided'), Ch.11 (−35, near-break
+      meaning-coda), Ch.13 (−20, doubled 'waiting for him to be afraid'), Ch.14 (−31, 'can't
+      reconcile the two halves' pile-up), Ch.15 (−44, re-explained 'can't argue a dragon').
+      Ch.12/16/17 reviewed and PROTECTED (no cut): Ch.12 & Ch.16 are dense/essential (Ch.16
+      already had a de-tic pass); Ch.17 is Maren's chapter whose high 'count' density IS her
+      signature (workstream #3) and was already tightened once. Each cut gate-clean, committed
+      per chapter. Mid-book total change ~−187w; book still well within band.
 - [ ] (deferred) Re-run beta panel + external read
