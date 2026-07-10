@@ -109,4 +109,15 @@ motif density book-wide, then decide if Ch.10–17 need a lighter thinning pass.
       already had a de-tic pass); Ch.17 is Maren's chapter whose high 'count' density IS her
       signature (workstream #3) and was already tightened once. Each cut gate-clean, committed
       per chapter. Mid-book total change ~−187w; book still well within band.
-- [ ] (deferred) Re-run beta panel + external read
+- [x] Beta panel ROUND 7 + Genesis Floor re-eval ROUND 3 DONE (judging the full surgical pacing pass).
+      Beta: the two conservative anchors ROSE on genuine structural closes — Critic 8.0→8.5 (over-
+      narrated front + convenient gift both closed at sentence level), Hostile 7.5→8.0 (gift now has a
+      governor seeded early/honored late), Casual 7.0→8.0→ wait 7.5→8.0 (front stopped asking to wade;
+      Della/Maren now distinct); Devourer 9, Devoted 9.5 held (no collateral to the interiority).
+      No new blocking item. Floor re-eval: ALL touched chapters PASS ≥8.5, Ch.2 & Ch.5 STRENGTHENED,
+      zero regression, anti-AI pattern density reduced (style 614→609). Reports:
+      evaluations/review/beta-reader-panel-round7.md + genesis-floor-re-eval-2026-07-10-round3.md.
+      Panel's operative call: STOP cutting (fat exhausted without going cold). Optional ~1hr: the
+      "a year" ×3 idioms (Ch.11/25) + one whale-iron anchor line (Ch.21). External human beta = the
+      one remaining non-pipeline validation.
+- [ ] (deferred, optional) External human romantasy beta read (the only non-pipeline validation left).
