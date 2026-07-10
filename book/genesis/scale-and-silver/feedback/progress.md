@@ -86,16 +86,21 @@ garden" (removes the one literal-year residue on the compressed timeline).
   Ch.15 ¶99 ("it was not nothing / his father said as much" → the dragon's head resting in her hand),
   Ch.23 ¶121 (seen/caged "same thing" → a cold decision), Ch.21 ¶139 ("whole of the cost" → flying
   north with nothing to pay it but distance). Net: style baseline 618→615 (three flagged repeats
-  removed, zero new). Represents the named/worst offenders; a full ⅔ sweep of every scene-end can
-  continue if wanted.
+  removed, zero new). **Second batch (full sweep):** Ch.4 ¶63 (kindness-as-menace close → Korvan
+  rubbing the cold off his neck), Ch.12 ¶103 (Orry's shame → getting up to warm his hands elsewhere),
+  Ch.23 ¶39 ("whole of it / thing she'd carry" → made herself watch, the only thing left to give),
+  Ch.28 ¶171 chapter-end ("nothing she could hold at all" → "and neither of them crossed"). **The
+  paragraph-END narrated-thesis tic is now effectively CLEARED** — an automated recheck leaves only
+  image-landings, remembered dialogue, and false positives (9 scene-ends converted total; style 615).
 - **2a couple page-time (kept the ROMANTASY pitch)** — added TWO non-explicit togetherness/claim beats
   (canon holds: only two explicit scenes, Ch.18 + Ch.26): (1) **Ch.21 open** — a pre-dawn cold-camp
   beat the night before the ford ambush (Korvan POV), last calm before the separation, seeds the ache;
   (2) **Ch.29 coronation-evening** — a physical-claim kiss ("Mine" / "Hers") before the bittersweet
   "two banks of the same water" close, honouring the theme without turning it HEA. Both gate-clean;
   new n-grams varied out; book now **153,579 words**.
-- **STILL OPEN (author):** the wider scene-end tic sweep beyond the 5 done; whether to add still more
-  mid-book couple page-time; and the bias-check caveat (self-generated 9.0s want a human/external read).
+- **STILL OPEN (author):** whether to add still more mid-book couple page-time; an optional deeper
+  pass on mid-paragraph (not scene-end) interior meaning-statements; and the bias-check caveat
+  (self-generated 9.0s want a human/external read). The scene-END tic sweep is complete.
 
 **Still-open production track (non-blocking):**
 - Adapt + run `production/reference/assemble_manuscript.py` (extend to 29 ch, this title) →

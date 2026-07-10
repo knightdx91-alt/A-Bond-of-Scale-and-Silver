@@ -36,7 +36,7 @@ She found her at the third name.
 
 "Aldous Reeve, of Ferny Bank," the man read. "His wife. Their girl. Their boy." He let each one land on its own before he set down the next, the way you set down something you did not want to drop. "Ferny Bank had no soldiers in it. It had a mill and a chapel and a pound for stray beasts. It is not there now." He looked up, mild, over the sheet. "I asked, when I heard of it, who did this. And a man told me a thing, and I want to be fair, so I'll tell it to you the way it was told to me, and you can make of it what you will."
 
-Amelia stood in the crowd and knew what was coming, and could do nothing to stop it coming, and that was the whole of it, that was the thing she would carry out of this square if she carried anything.
+Amelia stood ten deep in the crowd and knew what was coming, and could do nothing to stop it coming, and stood there anyway with her hands open at her sides and made herself watch, because the watching was the only thing she had left to give.
 
 "There is a girl," the man said. "A witch, they say, though I don't like the word, it does the wrong work. A born one. The first in a thousand years, if the stories run true, and I'm not the man to say whether they do." He spread his hands, disclaiming it, giving it away. "And there is a thing that flies. You'll have heard that too. And a fortnight ago these two were seen together in the hills above the frontier, and a fortnight ago the frontier began to burn. Now, I'm not a clever enough man to tell you that the one made the other. I'm only a man who can count, and put a fortnight beside a fortnight, and read you a list, and let you be as clever as you like."
 
