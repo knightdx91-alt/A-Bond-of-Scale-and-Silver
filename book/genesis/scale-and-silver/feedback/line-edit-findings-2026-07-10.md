@@ -185,3 +185,13 @@ feeding RESOLVED, tic IMPROVED, timeline IMPROVED). Then:
   shieling pre-dawn (~330w, non-explicit per the two-explicit-scenes canon). Book now 152,584 words.
 - "did the sum" deliberately NOT thinned further (signposted characterization + Ch.28 payoff).
 OPEN: optional Floor re-eval on Ch.19/28/29 (changed canon); production track; book-packager.
+
+## 11. Canon correction — Amelia's power is vast; the failure is INEXPERIENCE (2026-07-10)
+Author note: blood magyk is genuinely powerful (that's WHY the court feared her once they learned she
+carried the Queen's magyk). Amelia COULD eventually save a wound like Selwyn's — she just hasn't the
+Queen's centuries of practice. Reworked the Ch.28 Selwyn death from an ABSOLUTE power-limit ("wounds
+too open to hold") to a SKILL/experience gap: the power comes, enormous and more than enough, but she
+has held it barely a season and lacks the craft to catch a wide fast bleed in time; her mother would
+have held him with two fingers. "The power was equal to it. She was not. Not yet." Ties to her arc
+(immense inherited power, untrained) and keeps the fear justified. Ch.29 death report neutralized
+("the boy went out under her hands regardless"). Gates clean; book 152,762.

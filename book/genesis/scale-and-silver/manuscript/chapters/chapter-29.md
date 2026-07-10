@@ -62,7 +62,7 @@ She thought about a wound in a cold ford, and a stranger's blood staying where s
 
 "Then that's the orders." She stood, because she had learned on the hill that the standing was itself a thing men read, and she read them reading it. "Selwyn."
 
-The grey man's careful face did a small honest thing at the change of register. "Gone, Majesty. On the shelf, where the iron put him. They tell me the silver girl knelt in the ford and tried, and that it was past the trying." A dry, careful beat. "The clansmen carried him off the field on their own shoulders. They talk about him a great deal. About what a downed one ought to do."
+The grey man's careful face did a small honest thing at the change of register. "Gone, Majesty. On the shelf, where the iron put him. They tell me the silver girl knelt in the ford and tried, and that the boy went out under her hands regardless." A dry, careful beat. "The clansmen carried him off the field on their own shoulders. They talk about him a great deal. About what a downed one ought to do."
 
 She was quiet a moment, and did not let the quiet be nothing. "See his people are told by someone who stood on the shelf," she said, "and not by a name on a list on a cross. That's an order too."
 
