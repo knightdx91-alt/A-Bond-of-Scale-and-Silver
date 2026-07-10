@@ -195,3 +195,24 @@ has held it barely a season and lacks the craft to catch a wide fast bleed in ti
 have held him with two fingers. "The power was equal to it. She was not. Not yet." Ties to her arc
 (immense inherited power, untrained) and keeps the fear justified. Ch.29 death report neutralized
 ("the boy went out under her hands regardless"). Gates clean; book 152,762.
+
+## 12. Power-canon cohesion sweep (2026-07-10)
+Checked every passage that describes Amelia's power/limits against the corrected canon (power VAST +
+feared; real limit = INEXPERIENCE not a ceiling; separately, blood magyk acts on blood/bodies, not
+inanimate "weight"). Findings:
+- Ch.2 (training) — CONSISTENT: built on practice (flame/fish/cold); rule = chosen discipline vs how
+  EASY taking is; power framed as feared. No change.
+- Ch.20 (saves a dying child's bleed) — the key precedent: power EXCEEDS the law ("the law had not
+  been the edge of her power; a fence her mother built well short of the edge"). CONSISTENT and load-
+  bearing (proves she CAN hold a bleed → Selwyn is a scale/skill failure, not a domain one). Fixed one
+  over-absolute line (¶83) to scope it: "for everything she had yet asked of it, the difficulty had
+  only ever been in the deciding and not in the doing" (was "…never in the doing" — which would clash
+  with Selwyn being beyond her untrained craft).
+- Ch.24 (stops six hearts) — CONSISTENT: "a small precise motion" = the ACT is precise, not the power
+  small; explicitly "a girl learning a craft" (reinforces skill). No change.
+- Ch.28 ¶31 ("no power over weight at all") — CONSISTENT: domain boundary (can't stop flying iron),
+  distinct from the Selwyn skill-gap. Left intact.
+- Ch.13/15/16 — CONSISTENT (fish-control lesson; magnitude "deep-red gathering of blood magyk"; rule
+  as self-built discipline). No change.
+Net: canon now coheres — she can heal/hold blood (Ch.20 child), her power outstrips the law, and
+Selwyn dies because a wide/fast wound outstrips her UNTRAINED craft, not her power.

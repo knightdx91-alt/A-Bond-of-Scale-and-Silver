@@ -80,7 +80,7 @@ She had no idea if it would work. She had never tried it. There had never been a
 
 The blood held.
 
-It held the way the fish had held over the bowl, the way the seven hearts had held on the tarn. Easily. At once. No argument in it, no resistance anywhere, as if the whole of the difficulty had only ever been in the deciding and never in the doing. The dark going of it out of the child slowed, and thickened, and stopped. Amelia felt the tear draw shut under her will and hold shut. She felt the pressure come back up into the leg, the way it comes back into a thing that is going to live. The child, gone the grey-white she had a name for and hated, drew a breath with some bottom to it. Then another. And the flat wordless sound the mother made changed, went up, broke, became weeping, which is the sound a person makes when the worst thing has been called off.
+It held the way the fish had held over the bowl, the way the seven hearts had held on the tarn. Easily. At once. No argument in it, no resistance anywhere, as if, for everything she had yet asked of it, the difficulty had only ever been in the deciding and not in the doing. The dark going of it out of the child slowed, and thickened, and stopped. Amelia felt the tear draw shut under her will and hold shut. She felt the pressure come back up into the leg, the way it comes back into a thing that is going to live. The child, gone the grey-white she had a name for and hated, drew a breath with some bottom to it. Then another. And the flat wordless sound the mother made changed, went up, broke, became weeping, which is the sound a person makes when the worst thing has been called off.
 
 Amelia took her hands out of the blood. They were red to the wrist. She looked at them.
 
