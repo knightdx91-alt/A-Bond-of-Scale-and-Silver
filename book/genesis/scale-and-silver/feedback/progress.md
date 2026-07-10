@@ -63,10 +63,14 @@ tic IMPROVED, timeline IMPROVED). Then cleared the remaining actionable items:
   romantasy / Anne Bishop (NOT McKillip/Priory/YA).
 
 ### 3. ▶ NEXT — open items (pick up here)
-**Recommended verification (net-new/changed canon this session — a Floor re-eval would confirm):**
-- Optional `book-evaluator` Genesis-Floor re-eval on **Ch.19** (new couple beat), **Ch.28** and
-  **Ch.29** (Selwyn death rework). All pass mechanical gates + are on-voice; scores likely hold ≥8.5
-  but haven't been formally re-scored. Consider a round-3 beta panel after any further changes.
+**Ch.29 Selwyn continuity RESOLVED (2026-07-10):** the Floor re-eval
+(`evaluations/review/genesis-floor-re-eval-2026-07-10.md`) flagged Ch.29 BELOW FLOOR (8.0) because
+¶57 and ¶93 still carried the OLD save-succeeded ford arithmetic ("staying where she told it to
+stay" / "it had held") after Selwyn's death was reworked in Ch.28. Both passages recast to the
+total-loss ledger (power vast but too green to catch it in time) per Fix #1, sentence shapes kept,
+neither cut. Gates re-run clean (grammar clean; style 618 = unchanged baseline, no new flag;
+metaphor 15.8% <40w under ceiling; word floor 5,327). Ch.19/Ch.28 already verified PASS in the
+re-eval. A round-3 beta panel is optional after any further changes.
 
 **Still-open production track (non-blocking):**
 - Adapt + run `production/reference/assemble_manuscript.py` (extend to 29 ch, this title) →
