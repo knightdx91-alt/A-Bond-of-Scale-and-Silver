@@ -73,6 +73,30 @@ neither cut. Gates re-run clean (grammar clean; style 618 = unchanged baseline, 
 metaphor 15.8% <40w under ceiling; word floor 5,327). Ch.19/Ch.28 already verified PASS in the
 re-eval. A round-3 beta panel is optional after any further changes.
 
+**All Floor re-eval fixes CLEARED (2026-07-10):** Fix #1 (above) + Fix #2 (Ch.28 ¶151 "held"→"used
+it barely a season"), Fix #4 (Ch.20 ¶91 70-word sentence split; sharpens the Ch.28 payoff echo),
+Fix #5 (Ch.20→Ch.28 seed/payoff echo + Ch.29 "twenty-two days"×2 logged as SANCTIONED in
+`style-flags.md`). Plus the beta timeline note: Ch.25 "not ten words of him in a year" → "since the
+garden" (removes the one literal-year residue on the compressed timeline).
+
+**Beta-panel developmental items ACTIONED (2026-07-10) — POSITIONING = ROMANTASY (author call):**
+- **2b scene-end "narrated-thesis" de-tic pass** — converted the worst scene-end meaning-statements
+  to image/action (panel's #1 craft lift): Ch.28 ¶111 ("The touch was only tidying" cut, lands on the
+  hill-loss fact), Ch.24 ¶121 ("Hidden and seen were the same wall" → chains going home behind her),
+  Ch.15 ¶99 ("it was not nothing / his father said as much" → the dragon's head resting in her hand),
+  Ch.23 ¶121 (seen/caged "same thing" → a cold decision), Ch.21 ¶139 ("whole of the cost" → flying
+  north with nothing to pay it but distance). Net: style baseline 618→615 (three flagged repeats
+  removed, zero new). Represents the named/worst offenders; a full ⅔ sweep of every scene-end can
+  continue if wanted.
+- **2a couple page-time (kept the ROMANTASY pitch)** — added TWO non-explicit togetherness/claim beats
+  (canon holds: only two explicit scenes, Ch.18 + Ch.26): (1) **Ch.21 open** — a pre-dawn cold-camp
+  beat the night before the ford ambush (Korvan POV), last calm before the separation, seeds the ache;
+  (2) **Ch.29 coronation-evening** — a physical-claim kiss ("Mine" / "Hers") before the bittersweet
+  "two banks of the same water" close, honouring the theme without turning it HEA. Both gate-clean;
+  new n-grams varied out; book now **153,579 words**.
+- **STILL OPEN (author):** the wider scene-end tic sweep beyond the 5 done; whether to add still more
+  mid-book couple page-time; and the bias-check caveat (self-generated 9.0s want a human/external read).
+
 **Still-open production track (non-blocking):**
 - Adapt + run `production/reference/assemble_manuscript.py` (extend to 29 ch, this title) →
   `manuscript/full-manuscript.md`; adapt + run `build_pdf.py`; **verify fonts embedded**; convert to

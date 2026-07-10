@@ -1,5 +1,15 @@
 # Chapter Twenty-One — Discovered
 
+The last of the night before it came apart they had to themselves, and did not waste it on sleep.
+
+They had made a cold camp off the track behind a fallen dyke, no fire, the mare hobbled near, and lain down together under the one blanket the way they did now, her cold length fitted along the warm of him, his arm over her and his hand spread open on her breastbone where the slow strange heart went at its own pace under his palm. He could not lie that near her any more and keep his hands to himself. So he touched her, plainly, a hand that had learned the whole cold country of her by now, and she let him, which was still the astonishment it had been the first night in the hut.
+
+Before the grey came she turned inside his arm and set her mouth to the pulse in his throat, not hungry, not asking, only laying it there, the small hard claim of a woman who had spent her whole life forbidden to want a thing where it could be seen and had decided, here in the dark, to want this one out loud in the only place she had. He took the weight of her against the size of him and gave it back. He did not tell her it would be all right. She would have heard the untruth of it against his skin, and he did not believe it anyway. He only held her, and put his rough face down into the cold silver of her hair, and made himself learn the exact shape and weight and chill of her along him, the way a man fixes in his mind a thing he has begun to suspect he will soon have to do without.
+
+Some animal under the man knew before the man did. It stayed awake with its arm full of her and would not shut its eyes, and he stayed awake with it, and held her, and let the dark run out one careful hour at a time while she breathed slow against him and the war waited a few miles off for the light.
+
+---
+
 They came up on the drove-road an hour after first light, where the track ran narrow between two stone dykes and a man on foot had nowhere to put himself but along it.
 
 Korvan heard them before the bend gave them up. Not the loose sound of drovers. Shod horses, walking, holding a line. He put his hand back to find Amelia's sleeve. She was already still, her head tipped the half-degree it tipped when she was counting hearts through stone.
@@ -136,7 +146,7 @@ He beat up into the low grey and the crossing fell away beneath him, the shelf a
 
 ---
 
-He could do nothing but keep flying. That was the whole of the cost, laid out in one long minute in the cold air, exactly what the warm hour in the hut had run to, come due at last.
+He could do nothing but keep flying. So he kept flying, north into the empty cold with the warm hour in the hut come due behind him and nothing in his hands to pay it with but distance.
 
 The whale-iron crew broke from the alder and did not go for the shelf. Instead they went for their horses, fast, and came out onto the road below streaming west along the river's near bank, faces up, arms full of the tarred line, a second iron already on a cart. Behind them the two from the willow scrub came too. Korvan understood in the air that she had been right down to the last man. They chose the two. They left the girl. The nameless money had bought them a dragon, and they poured off after the dragon the moment it went up. He watched the whole quiet crew abandon the most valuable person on the frontier and gallop west under him along the river. She had made herself the small prize on purpose. She had made herself the leaving. It had worked, and the working was the worst thing he had ever seen from above.
 
