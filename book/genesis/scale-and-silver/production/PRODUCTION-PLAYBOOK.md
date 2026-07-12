@@ -110,6 +110,13 @@ IngramSpark ebook channel compatible. Rebuild after manuscript edits; `DEDICATIO
 print build.
 
 ## Quick status
+- [x] **2026-07-12 — REBUILT after style edits (six accidental phrase echoes varied in Ch.22/23/26/27).**
+      Reassembled `full-manuscript.md` (153,658 w), rebuilt interior PDF + X-1a. The shortened lines
+      reflowed the book **448 → 446 pp**. Interior verified: only subsetted IBM Plex Serif, zero
+      Helvetica. X-1a verified: GTS_PDFX + OutputIntent, DeviceCMYK, 0 DeviceRGB, fonts embedded.
+      **⚠️ Spine now 446 × 0.0025" = 1.115" (cream 50#), was 1.120" @ 448 pp — rebuild the wrap
+      (`compose_wrap.py`, set page count to 446) before ordering print. EPUB is page-count-independent
+      but should be rebuilt too for the prose edits.**
 - [x] Adapt + run `assemble_manuscript.py` → `manuscript/full-manuscript.md` (29 ch). **DONE 2026-07-10**
       — adapted script at `production/assemble_manuscript.py` (em-dash headings, WORD numerals to 29,
       scene breaks normalized to `* * *`). Assembled ~154,016 words, 77 scene breaks.
